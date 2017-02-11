@@ -7631,29 +7631,6 @@
 		</issue>
 		<issue inum="04" month="" year="1994" info="">
 			<entry hassup="0">
-				<title>Preface</title>
-				<feature></feature>
-				<page></page>
-				<abstract />
-				<keywords></keywords>
-				<authors>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email />
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email />
-					</author>
-				</authors>
-				<dates>
-					<date type="M"></date>
-					<date type="A"></date>
-				</dates>
-			</entry>
-			<entry hassup="0">
 				<title></title>
 				<feature></feature>
 				<page></page>
