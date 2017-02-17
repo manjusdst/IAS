@@ -2,7 +2,7 @@
 <!DOCTYPE journal SYSTEM "journal.dtd">
 
 <journal title="Journal of Astrophysics and Astronomy" short="J. Astrophys. Astr." mnemonic="jaa">
-	<volume vnum="05">
+	<volume vnum="005">
 		<issue inum="01" month="" year="1984" info="">
 			<entry hassup="0">
 				<title>Foreword</title>
@@ -69,7 +69,7 @@
 				<feature></feature>
 				<page>0031-0041</page>
 				<abstract />
-				<keywords>alignment;galaxies, Local Group, Sculptor Group;radio sources, counts </keywords>
+				<keywords>alignment;galaxies, Local Group, Sculptor Group;radio sources, counts</keywords>
 				<authors>
 					<author>
 						<name first="Halton" last="Arp">Halton Arp</name>
@@ -330,7 +330,7 @@
 				<feature></feature>
 				<page>0187-0207</page>
 				<abstract />
-				<keywords>pulsars: 1937 + 21, 1953 +29;pulsar surveys;time;gravitational waves </keywords>
+				<keywords>pulsars: 1937 + 21, 1953 +29;pulsar surveys;time;gravitational waves</keywords>
 				<authors>
 					<author>
 						<name first="D. C." last="Backer">D. C. Backer</name>
@@ -369,7 +369,7 @@
 					</author>
 					<author>
 						<name first="J. P." last="Ostriker">J. P. Ostriker</name>
-						<affiliation>Princeton University Observatory, Peyton Hall, Princeton, NJ 08544, USA </affiliation>
+						<affiliation>Princeton University Observatory, Peyton Hall, Princeton, NJ 08544, USA</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -384,7 +384,7 @@
 				<authors>
 					<author>
 						<name first="B. V." last="Sreekantan">B. V. Sreekantan</name>
-						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Bombay 400005 </affiliation>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Bombay 400005</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -650,7 +650,7 @@
 					</author>
 					<author>
 						<name first="R. P." last="Sinha">R. P. Sinha</name>
-						<affiliation>Systems and Applied Science Corporation, 5809 Annapolis Road, Hyattsville, MD 20784, USA </affiliation>
+						<affiliation>Systems and Applied Science Corporation, 5809 Annapolis Road, Hyattsville, MD 20784, USA</affiliation>
 						<email />
 					</author>
 					<author>
@@ -678,7 +678,7 @@
 				<authors>
 					<author>
 						<name first="D. J." last="Saikia">D. J. Saikia</name>
-						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, Post Box 1234, Bangalore 560012 </affiliation>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, Post Box 1234, Bangalore 560012</affiliation>
 						<email />
 					</author>
 					<author>
@@ -688,7 +688,7 @@
 					</author>
 					<author>
 						<name first="R. P." last="Sinha">R. P. Sinha</name>
-						<affiliation>Systems and Applied Science Corporation, 5809 Annapolis Road, Hyattsville, MD 20784, USA </affiliation>
+						<affiliation>Systems and Applied Science Corporation, 5809 Annapolis Road, Hyattsville, MD 20784, USA</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -930,7 +930,7 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title>Corrigendum: Nonconservation of Baryons in Cosmology—Revisited </title>
+				<title>Corrigendum: Nonconservation of Baryons in Cosmology—Revisited</title>
 				<feature></feature>
 				<page>0075-0075</page>
 				<abstract />
@@ -1317,7 +1317,7 @@
 				</dates>
 			</entry>
 			<entry hassup="0">			
-				<title>Nature and Distribution of Dark Matter: 1. Dwarf Spheroidals and Milky Way </title>
+				<title>Nature and Distribution of Dark Matter: 1. Dwarf Spheroidals and Milky Way</title>
 				<feature></feature>
 				<page>0261-0277</page>
 				<abstract />
@@ -1503,7 +1503,7 @@
 		</issue>
 		<issue inum="02" month="" year="1986" info="">
 			<entry hassup="0">			
-				<title>Thermonuclear Reaction Rates from (𝑝, 𝑛) Reactions on Targets with 𝐴 = 92–122 </title>
+				<title>Thermonuclear Reaction Rates from (𝑝, 𝑛) Reactions on Targets with 𝐴 = 92–122</title>
 				<feature></feature>
 				<page>0053-0057</page>
 				<abstract />
@@ -1599,7 +1599,7 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title>The Luminosity–Volume Test and the Local Hypothesis of Quasars </title>
+				<title>The Luminosity–Volume Test and the Local Hypothesis of Quasars</title>
 				<feature></feature>
 				<page>0099-0103</page>
 				<abstract />
@@ -1677,11 +1677,11 @@
 				<feature></feature>
 				<page>0119-0129</page>
 				<abstract />
-				<keywords>extragalactic radio sources;quasars, radio structure;quasars, linear polarization </keywords>
+				<keywords>extragalactic radio sources;quasars, radio structure;quasars, linear polarization</keywords>
 				<authors>
 					<author>
 						<name first="T. J." last="Cornwell">T. J. Cornwell</name>
-						<affiliation>National Radio Astronomy Observatory, Post Box 0, Socorro, New Mexico 87801, USA </affiliation>
+						<affiliation>National Radio Astronomy Observatory, Post Box 0, Socorro, New Mexico 87801, USA</affiliation>
 						<email />
 					</author>
 					<author>
@@ -1906,7 +1906,7 @@
 				<feature></feature>
 				<page>0275-0292</page>
 				<abstract />
-				<keywords>image reconstruction;minimum-relative-entropy method;radio astronomy, reduction techniques </keywords>
+				<keywords>image reconstruction;minimum-relative-entropy method;radio astronomy, reduction techniques</keywords>
 				<authors>
 					<author>
 						<name first="R. Κ." last="Shevgaonkar">R. Κ. Shevgaonkar</name>
@@ -1951,7 +1951,7 @@
 				<authors>
 					<author>
 						<name first="D. A." last="Leahy">D. A. Leahy</name>
-						<affiliation>Department of Physics, The University of Calgary, Calgary, Alberta, Canada T2N 1N4 </affiliation>
+						<affiliation>Department of Physics, The University of Calgary, Calgary, Alberta, Canada T2N 1N4</affiliation>
 						<email />
 					</author>
 					<author>
@@ -2008,14 +2008,14 @@
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="8">
+	<volume vnum="08">
 		<issue inum="01" month="" year="1987" info="">
 			<entry hassup="0">
-				<title>Stellar Orbits in Elliptical Galaxies with Relativistically Active Nuclei </title>
+				<title>Stellar Orbits in Elliptical Galaxies with Relativistically Active Nuclei</title>
 				<feature></feature>
 				<page>0001-0016</page>
 				<abstract />
-				<keywords>galaxies, prolate elliptical;galaxies, active nuclei;galaxies, dynamics and kinematics </keywords>
+				<keywords>galaxies, prolate elliptical;galaxies, active nuclei;galaxies, dynamics and kinematics</keywords>
 				<authors>
 					<author>
 						<name first="N." last="Spyrou">N. Spyrou</name>
@@ -2052,7 +2052,7 @@
 					</author>
 					<author>
 						<name first="Saleh Mohammed" last="Alladin">Saleh Mohammed Alladin</name>
-						<affiliation> International Centre for Theoretical Physics, 34100 Trieste, Italy</affiliation>
+						<affiliation>International Centre for Theoretical Physics, 34100 Trieste, Italy</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -2066,7 +2066,7 @@
 				<feature></feature>
 				<page>0033-0050</page>
 				<abstract />
-				<keywords>radio sources, extragalactic;angular-size-flux-density relation;cosmology;radio sources, evolution </keywords>
+				<keywords>radio sources, extragalactic;angular-size-flux-density relation;cosmology;radio sources, evolution</keywords>
 				<authors>
 					<author>
 						<name first="V. K." last="Kapahi">V. K. Kapahi</name>
@@ -2236,7 +2236,7 @@
 				<dates />
 			</entry>
 			<entry hassup="0">
-				<title>Nitrogen Enhancement in Metal-Poor Dwarfs: From Inside or Outside? </title>
+				<title>Nitrogen Enhancement in Metal-Poor Dwarfs: From Inside or Outside?</title>
 				<feature></feature>
 				<page>0093-0097</page>
 				<abstract />
@@ -2375,11 +2375,11 @@
 				<dates />
 			</entry>
 			<entry hassup="0">
-				<title>The Role of a Strong Far-Infrared Radiation Field in Line Excitation and Cooling of Photodissociation Regions and Molecular Clouds </title>
+				<title>The Role of a Strong Far-Infrared Radiation Field in Line Excitation and Cooling of Photodissociation Regions and Molecular Clouds</title>
 				<feature>Articles</feature>
 				<page>0169-0181</page>
 				<abstract />
-				<keywords>molecular clouds, cooling;Η I regions;far-infrared radiation </keywords>
+				<keywords>molecular clouds, cooling;Η I regions;far-infrared radiation</keywords>
 				<authors>
 					<author>
 						<name first="Abdul" last="Qaiyum">Abdul Qaiyum</name>
@@ -2398,7 +2398,7 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title>The He II Line 𝜆4686 in WN Binaries </title>
+				<title>The He II Line 𝜆4686 in WN Binaries</title>
 				<feature>Articles</feature>
 				<page>0183-0194</page>
 				<abstract />
@@ -2471,7 +2471,7 @@
 		</issue>
 		<issue inum="03" month="" year="1987" info="">
 			<entry hassup="0">			
-				<title>Dark Spots, Bubbles, and Shells in the Lobes of Extragalactic Radio Sources </title>
+				<title>Dark Spots, Bubbles, and Shells in the Lobes of Extragalactic Radio Sources</title>
 				<feature></feature>
 				<page>0211-0217</page>
 				<abstract />
@@ -2562,7 +2562,7 @@
 				<feature></feature>
 				<page>0241-0255</page>
 				<abstract />
-				<keywords>redshifts, quantization;galaxies, Local Group;galaxies, Sculptor Group </keywords>
+				<keywords>redshifts, quantization;galaxies, Local Group;galaxies, Sculptor Group</keywords>
 				<authors>
 					<author>
 						<name first="Halton" last="Arp">Halton Arp</name>
@@ -2580,7 +2580,7 @@
 				<feature></feature>
 				<page>0257-0262</page>
 				<abstract />
-				<keywords>collisionless stellar systems, violent relaxation;entropy increase </keywords>
+				<keywords>collisionless stellar systems, violent relaxation;entropy increase</keywords>
 				<authors>
 					<author>
 						<name first="S." last="Sridhar">S. Sridhar</name>
@@ -2720,7 +2720,7 @@
 				<feature></feature>
 				<page>0305-0314</page>
 				<abstract />
-				<keywords>stellar atmosphere;thermosolutal-convective instability;suspended particles </keywords>
+				<keywords>stellar atmosphere;thermosolutal-convective instability;suspended particles</keywords>
 				<authors>
 					<author>
 						<name first="R. C." last="Sharma">R. C. Sharma</name>
@@ -2790,20 +2790,20 @@
 				</dates>
 			</entry>
 			<entry hassup="0">			
-				<title>An Analytical Approximation of the Hubble Space Telescope Monochromatic Point Spread Functions </title>
+				<title>An Analytical Approximation of the Hubble Space Telescope Monochromatic Point Spread Functions</title>
 				<feature></feature>
 				<page>0343-0350</page>
 				<abstract />
-				<keywords>An Analytical Approximation of the Hubble Space Telescope Monochromatic Point Spread Functions </keywords>
+				<keywords>An Analytical Approximation of the Hubble Space Telescope Monochromatic Point Spread Functions</keywords>
 				<authors>
 					<author>
 						<name first="O." last="Bendinelli">Ο. Bendinelli</name>
-						<affiliation>Dipartimento di Astronomia, Università di Bologna, Via Zamboni 33, 40126 Bologna, Italy </affiliation>
+						<affiliation>Dipartimento di Astronomia, Università di Bologna, Via Zamboni 33, 40126 Bologna, Italy</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="G." last="Parmeggiani">G. Parmeggiani</name>
-						<affiliation>Osservatorio Astronomico di Bologna, Via Zamboni 33, 40126 Bologna, Italy </affiliation>
+						<affiliation>Osservatorio Astronomico di Bologna, Via Zamboni 33, 40126 Bologna, Italy</affiliation>
 						<email />
 					</author>
 					<author>
@@ -2842,7 +2842,7 @@
 				</dates>
 			</entry>
 			<entry hassup="0">			
-				<title>Spectroscopic Evolution of Nova LW Serpentis 1978 during its Early Decline </title>
+				<title>Spectroscopic Evolution of Nova LW Serpentis 1978 during its Early Decline</title>
 				<feature></feature>
 				<page>0369-0387</page>
 				<abstract />
@@ -3313,7 +3313,7 @@
 				<feature></feature>
 				<page>0161-0172</page>
 				<abstract />
-				<keywords>stars, emission-line;stars, Wolf-Rayet;open clusters, NGC 6231. </keywords>
+				<keywords>stars, emission-line;stars, Wolf-Rayet;open clusters, NGC 6231.</keywords>
 				<authors>
 					<author>
 						<name first="Β. S." last="Shylaja">Β. S. Shylaja</name>
@@ -3328,7 +3328,7 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title>𝛼<sup>2</sup> CVn: A comparison between Spot and Oblate Spheroid Models </title>
+				<title>𝛼<sup>2</sup> CVn: A comparison between Spot and Oblate Spheroid Models</title>
 				<feature></feature>
 				<page>0173-0183</page>
 				<abstract />
@@ -3647,7 +3647,7 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title>Occultations by Possible Material in Saturn’s Outer Magnetosphere—2 </title>
+				<title>Occultations by Possible Material in Saturn’s Outer Magnetosphere—2</title>
 				<feature></feature>
 				<page>0085-0088</page>
 				<abstract />
@@ -3665,7 +3665,7 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title>A Theory of Sequential Fragmentation and Its Astronomical Applications </title>
+				<title>A Theory of Sequential Fragmentation and Its Astronomical Applications</title>
 				<feature></feature>
 				<page>0089-0112</page>
 				<abstract />
@@ -3775,7 +3775,7 @@
 				<feature></feature>
 				<page>0147-0150</page>
 				<abstract />
-				<keywords>emission-line diagnostics;electron temperature;planetary nebulae </keywords>
+				<keywords>emission-line diagnostics;electron temperature;planetary nebulae</keywords>
 				<authors>
 					<author>
 						<name first="F. P." last="Keenan">F. P. Keenan</name>
@@ -3798,7 +3798,7 @@
 				<feature></feature>
 				<page>0151-155</page>
 				<abstract />
-				<keywords>variable stars;R Coronae Borealis stars;semiregular variables;SY Hyi </keywords>
+				<keywords>variable stars;R Coronae Borealis stars;semiregular variables;SY Hyi</keywords>
 				<authors>
 					<author>
 						<name first="W. A." last="Lawson">W. A. Lawson</name>
@@ -3831,7 +3831,7 @@
 				<feature></feature>
 				<page>0157-0160</page>
 				<abstract />
-				<keywords>Bond dissociation energy;bond order;astrophysical molecules;electronegativity </keywords>
+				<keywords>Bond dissociation energy;bond order;astrophysical molecules;electronegativity</keywords>
 				<authors>
 					<author>
 						<name first="R. R." last="Reddy">R. R. Reddy</name>
@@ -3868,7 +3868,7 @@
 					</author>
 					<author>
 						<name first="W. Μ." last="GOSS">W. Μ. GOSS</name>
-						<affiliation>National Radio Astronomy Observatory, PO Box 0, Socorro, New Mexico 87801, USA </affiliation>
+						<affiliation>National Radio Astronomy Observatory, PO Box 0, Socorro, New Mexico 87801, USA</affiliation>
 						<email />
 					</author>
 					<author>
@@ -3887,7 +3887,7 @@
 				<feature></feature>
 				<page>0173-0182</page>
 				<abstract />
-				<keywords>integrated light and colours;star clusters;population synthesis </keywords>
+				<keywords>integrated light and colours;star clusters;population synthesis</keywords>
 				<authors>
 					<author>
 						<name first="Ram" last="Sagar">Ram Sagar</name>
@@ -3966,7 +3966,7 @@
 					</author>
 					<author>
 						<name first="T. J." last="Cornwell">T. J. Cornwell</name>
-						<affiliation>National Radio Astronomy Observatory, Post Box 0, Socorro, New Mexico 87801, USA </affiliation>
+						<affiliation>National Radio Astronomy Observatory, Post Box 0, Socorro, New Mexico 87801, USA</affiliation>
 						<email />
 					</author>
 					<author>
@@ -4254,7 +4254,7 @@
 					</author>
 					<author>
 						<name first="T." last="Padmanabhan">T. Padmanabhan</name>
-						<affiliation>Astrophysics Group, Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400005 </affiliation>
+						<affiliation>Astrophysics Group, Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400005</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -4733,7 +4733,7 @@
 				<authors>
 					<author>
 						<name first="A." last="Peraiah">A. Peraiah</name>
-						<affiliation> Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -4775,7 +4775,7 @@
 				<authors>
 					<author>
 						<name first="Ravi" last="Subrahmanyan">Ravi Subrahmanyan</name>
-						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, Post Box 8, Ootacamund 643001 </affiliation>
+						<affiliation>Radio Astronomy Centre, Tata Institute of Fundamental Research, Post Box 8, Ootacamund 643001</affiliation>
 						<email />
 					</author>
 					<author>
@@ -4854,7 +4854,7 @@
 					</author>
 					<author>
 						<name first="Douglas S." last="Hall">Douglas S. Hall</name>
-						<affiliation>Center of Excellence in Information Systems, Tennessee State University, Nashville, Tennessee 37201, USA </affiliation>
+						<affiliation>Center of Excellence in Information Systems, Tennessee State University, Nashville, Tennessee 37201, USA</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -4872,7 +4872,7 @@
 				<authors>
 					<author>
 						<name first="Douglas S." last="Hall">Douglas S. Hall</name>
-						<affiliation>Center of Excellence in Information Systems, Tennessee State University, Nashville, Tennessee 37201 USA </affiliation>
+						<affiliation>Center of Excellence in Information Systems, Tennessee State University, Nashville, Tennessee 37201 USA</affiliation>
 						<email />
 					</author>
 					<author>
@@ -4911,7 +4911,7 @@
 					</author>
 					<author>
 						<name first="Douglas S." last="Hall">Douglas S. Hall</name>
-						<affiliation>Center of Excellence in Information Systems, Tennessee State University, Nashville, Tennessee 37201 USA </affiliation>
+						<affiliation>Center of Excellence in Information Systems, Tennessee State University, Nashville, Tennessee 37201 USA</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -4952,7 +4952,7 @@
 					</author>
 					<author>
 						<name first="N. C." last="Rana">N. C. Rana</name>
-						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400005 </affiliation>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400005</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -5065,7 +5065,7 @@
 				<authors>
 					<author>
 						<name first="Ν. Kameswara" last="Rao">Ν. Kameswara Rao</name>
-						<affiliation>Indan Institute of Astrophysics, Bangalore, 560034 </affiliation>
+						<affiliation>Indan Institute of Astrophysics, Bangalore, 560034</affiliation>
 						<email />
 					</author>
 					<author>
@@ -5179,7 +5179,7 @@
 					<author>
 						<name first="Yu. P." last="Pskovsky">Yu. P. Pskovsky</name>
 						<affiliation>Μ. V. Lomonosov Moscow State University, Leninskiye Gory, Moscow, 117234, USSR</affiliation>
-						<affiliation> P. K. Shternberg State Institute of Astronomy</affiliation>
+						<affiliation>P. K. Shternberg State Institute of Astronomy</affiliation>
 						<email />
 					</author>
 					<author>
@@ -5204,8 +5204,8 @@
 				<authors>
 					<author>
 						<name first="R. Τ." last="Gangadhara">R. Τ. Gangadhara</name>
-						<affiliation>Indian Institute of Astrophysics, Bangalore 560034 </affiliation>
-						<affiliation>Joint Astronomy programme, Department of Physics, Indian Institute of Science, Bangalore 560012 </affiliation>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034</affiliation>
+						<affiliation>Joint Astronomy programme, Department of Physics, Indian Institute of Science, Bangalore 560012</affiliation>
 						<email />
 					</author>
 					<author>
@@ -5347,7 +5347,7 @@
 					</author>
 					<author>
 						<name first="A. Arellano" last="Ferro">A. Arellano Ferro</name>
-						<affiliation>Institute de Astronomia, Universidad Nacional Autonoma de Mexico, Αp. Postal 70-264, Mexico D. F., 04510 </affiliation>
+						<affiliation>Institute de Astronomia, Universidad Nacional Autonoma de Mexico, Αp. Postal 70-264, Mexico D. F., 04510</affiliation>
 						<email />
 					</author>
 					<author>
@@ -5710,92 +5710,92 @@
 					</author>
 					<author>
 						<name first="Peter A." last="Brooks">Peter A. Brooks</name>
-						<affiliation>31 South 17th Street, Easton, Pennsylvania 18042, USA </affiliation>
+						<affiliation>31 South 17th Street, Easton, Pennsylvania 18042, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Sandy" last="Chang">Sandy Chang</name>
-						<affiliation>3249 Kingsbridge Avenue, Bronx, New York 10463, USA </affiliation>
+						<affiliation>3249 Kingsbridge Avenue, Bronx, New York 10463, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Ales Dolzan" last="Zasavska">Ales Dolzan Zasavska</name>
-						<affiliation>88, 61231 Ljubljana, Yugoslavia </affiliation>
+						<affiliation>88, 61231 Ljubljana, Yugoslavia</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="George L." last="Fortier">George L. Fortier</name>
-						<affiliation>63 Devon Road, Baie d'Urfe, Quebec H9X 2W7, Canada </affiliation>
+						<affiliation>63 Devon Road, Baie d'Urfe, Quebec H9X 2W7, Canada</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Robert E." last="Fried">Robert E. Fried</name>
-						<affiliation>P.O. Box 906, Flagstaff, Arizona 86002, USA </affiliation>
+						<affiliation>P.O. Box 906, Flagstaff, Arizona 86002, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Russell M." last="Genet">Russell M. Genet</name>
-						<affiliation>3435 East Edgewood Avenue, Mesa, Arizona 85204, USA </affiliation>
+						<affiliation>3435 East Edgewood Avenue, Mesa, Arizona 85204, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Bruce S." last="Grim">Bruce S. Grim</name>
-						<affiliation>504 Country Club, Stansbury Park, Utah 84074, USA </affiliation>
+						<affiliation>504 Country Club, Stansbury Park, Utah 84074, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="James" last="Hannon">James Hannon</name>
-						<affiliation>63 Treadwell Avenue, Thomaston, Connecticut 06787, USA </affiliation>
+						<affiliation>63 Treadwell Avenue, Thomaston, Connecticut 06787, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Darrel B." last="Hoff">Darrel B. Hoff</name>
-						<affiliation>Department of Astronomy, University of Northern Iowa, Cedar Falls, Iowa 50614, USA </affiliation>
+						<affiliation>Department of Astronomy, University of Northern Iowa, Cedar Falls, Iowa 50614, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Kevin" last="Krisciunas">Kevin Krisciunas</name>
-						<affiliation>Joint Astronomy Centre, 665 Komohana Street, Hilo, Hawaii 96720, USA </affiliation>
+						<affiliation>Joint Astronomy Centre, 665 Komohana Street, Hilo, Hawaii 96720, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Howard J." last="Landis">Howard J. Landis</name>
-						<affiliation>50 Price Road West, Locust Grove, Georgia 30248, USA </affiliation>
+						<affiliation>50 Price Road West, Locust Grove, Georgia 30248, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Howard P." last="Louth">Howard P. Louth</name>
-						<affiliation>2199 Hathaway Road, Sedro Woolley, Washington 98384, USA </affiliation>
+						<affiliation>2199 Hathaway Road, Sedro Woolley, Washington 98384, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Larry P." last="Lovell">Larry P. Lovell</name>
-						<affiliation>18410 Munn Road, Chagrin Falls, Ohio 44022, USA </affiliation>
+						<affiliation>18410 Munn Road, Chagrin Falls, Ohio 44022, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Paul" last="Nielsen">Paul Nielsen</name>
-						<affiliation>18I7 Shipley Road, Wilmington, Delaware 19803, USA </affiliation>
+						<affiliation>18I7 Shipley Road, Wilmington, Delaware 19803, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Bobby E." last="Powell">Bobby E. Powell</name>
-						<affiliation>Department of Physics, West Georgia College, Carrollton, Georgia 30118, USA </affiliation>
+						<affiliation>Department of Physics, West Georgia College, Carrollton, Georgia 30118, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Harry D." last="Powell">Harry D. Powell</name>
-						<affiliation>Department of Physics, East Tennessee State University, Johnson City, Tennessee 37614, USA </affiliation>
+						<affiliation>Department of Physics, East Tennessee State University, Johnson City, Tennessee 37614, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Don" last="Pray">Don Pray</name>
-						<affiliation>40 Hillcrest Drive, Cranston, Rhode Island 02920, USA </affiliation>
+						<affiliation>40 Hillcrest Drive, Cranston, Rhode Island 02920, USA</affiliation>
 						<email />
 					</author>
 					<author>
 						<name first="Thomas R." last="Renner">Thomas R. Renner</name>
-						<affiliation>4512 Deerpark Drive, Dousman, Wisconsin 53118, USA </affiliation>
+						<affiliation>4512 Deerpark Drive, Dousman, Wisconsin 53118, USA</affiliation>
 						<email />
 					</author>
 					<author>
@@ -6198,7 +6198,6 @@
 						<email />
 					</author>
 					<author>
-					<author>
 						<name first="N. M." last="Ashok">N. M. Ashok</name>
 						<affiliation>Physical Research Laboratory Ahmedabad 380 009</affiliation>
 						<email />
@@ -6248,7 +6247,7 @@
 				<authors>
 					<author>
 						<name first="Τ. Κ." last="Sridharan">Τ. Κ. Sridharan</name>
-						<affiliation>Raman Research Institute, Bangalore 560 080 and Joint Astronomy Program, Indian Institute of Science, Bangalore 560 012 </affiliation>
+						<affiliation>Raman Research Institute, Bangalore 560 080 and Joint Astronomy Program, Indian Institute of Science, Bangalore 560 012</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -6413,7 +6412,7 @@
 					</author>
 					<author>
 						<name first="A. K." last="Kembhavi">A. K. Kembhavi</name>
-						<affiliation>Inter University Centre for Astronomy & Astrophysics, Pune 410 007</affiliation>
+						<affiliation>Inter University Centre for Astronomy &amp; Astrophysics, Pune 410 007</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -6513,7 +6512,6 @@
 				<keywords></keywords>
 				<authors />
 				<dates />
-				</dates>
 			</entry>
 		</issue>
 	</volume>
@@ -6853,7 +6851,7 @@
 				<authors>
 					<author>
 						<name first="Krishna M. V." last="Apparao">Krishna M. V. Apparao</name>
-						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400 005 </affiliation>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400 005</affiliation>
 						<email />
 					</author>
 					<author>
@@ -6876,7 +6874,7 @@
 				<authors>
 					<author>
 						<name first="Rob" last="Cavallo">Rob Cavallo</name>
-						<affiliation>Astronomy Department, University of Maryland, College Park MD 20742 USA </affiliation>
+						<affiliation>Astronomy Department, University of Maryland, College Park MD 20742 USA</affiliation>
 						<affiliation>Also Code 666, Goddard Space Flight Center, Greenbelt MD 20771 USA</affiliation>
 						<email />
 					</author>
@@ -6940,7 +6938,7 @@
 					</author>
 					<author>
 						<name first="C. B." last="Dwivedi">C. B. Dwivedi</name>
-						<affiliation>Institute of Advanced Study in Science and Technology, Khanapara, Guwahati, 781022 </affiliation>
+						<affiliation>Institute of Advanced Study in Science and Technology, Khanapara, Guwahati, 781022</affiliation>
 						<email />
 					</author>
 					<author>
@@ -7038,7 +7036,7 @@
 				<authors>
 					<author>
 						<name first="E. M." last="Purcell">E. M. Purcell</name>
-						<affiliation>Lyman Laboratory of Physics Harvard University Cambridge, Massachusetts </affiliation>
+						<affiliation>Lyman Laboratory of Physics Harvard University Cambridge, Massachusetts</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -7633,17 +7631,370 @@
 			<entry hassup="0">
 				<title>Preface</title>
 				<feature></feature>
-				<page></page>
+				<page>0355-0355</page>
+				<abstract />
+				<keywords>Indian Academy of Sciences in 1943.</keywords>
+				<authors>
+					<author>
+						<name first="G. N." last="Ramachandran">G. N. Ramachandran</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Fluctuations of light intensity in coron æ formed by diffraction</title>
+				<feature></feature>
+				<page>0357-0371</page>
 				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="G. N." last="Ramachandran">G.N. Ramachandran</name>
+						<affiliation>Department of Physics, Indian Institute of Science, Bangalore</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Radio Synthesis Imaging of Anisotropic Angular Broadening in the Solar Wind</title>
+				<feature></feature>
+				<page>0387-0414</page>
+				<abstract />
+				<keywords>Sun: solar wind, scintillations, angular broadening;Methods: observational, radio imaging.</keywords>
+				<authors>
+					<author>
+						<name first="K. R." last="Anantharamaiah">K. R. Anantharamaiah</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India.</affiliation>
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
+						<name first="Pradeep" last="Gothoskar">Pradeep Gothoskar</name>
+						<affiliation>National Center for Radio Astrophysics, Poona University Campus, Ganeshkhind, Pune 430 001, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="T. J." last="Cornwell">T. J. Cornwell</name>
+						<affiliation>National Radio Astronomy Observatory, Very Large Array, Socorro, NM 87801, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1994-05-24</date>
+					<date type="A">1994-09-12</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Study of the Kinematics of the Local Dark Clouds</title>
+				<feature></feature>
+				<page>0415-0443</page>
+				<abstract />
+				<keywords>Local ISM structure;Gould’s belt;dispersion in cloud velocities.</keywords>
+				<authors>
+					<author>
+						<name first="B." last="Ramesh">B. Ramesh</name>
+						<affiliation>Raman Research Institute, C. V. Raman Avenue, Sadashivanagar, Bangalore 560 080.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1994-09-17</date>
+					<date type="A">1994-11-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0445-0446</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0447-0448</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>
+	</volume>		
+	<volume vnum="16">
+		<issue inum="01" month="" year="1995" info="">
+			<entry hassup="0">
+				<title>The Radio Structure of 45 Quasars at 𝑧  &lt; 1.5 </title>
+				<feature></feature>
+				<page>0001-0036</page>
+				<abstract />
+				<keywords>Quasars;active galactic nuclei;radio structure.</keywords>
+				<authors>
+					<author>
+						<name first="V. Κ." last="Kapahi">V. Κ. Kapahi</name>
+						<affiliation>National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Poona University Campus, Pune 411007, India </affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1995-01-03</date>
+					<date type="A">1995-01-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Orbit of the Double-line Spectroscopic Binary System HR 7112</title>
+				<feature></feature>
+				<page>0037-0043</page>
+				<abstract />
+				<keywords>Spectroscopic binary stars;radial velocity.</keywords>
+				<authors>
+					<author>
+						<name first="P. Ν." last="Appleton">P. Ν. Appleton</name>
+						<affiliation>Erwin W. Fick Observatory, Department of Physics and Astronomy, Iowa State University.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. J." last="Eitter">J. J. Eitter</name>
+						<affiliation>Erwin W. Fick Observatory, Department of Physics and Astronomy, Iowa State University.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="C." last="Uecker">C. Uecker</name>
+						<affiliation>Erwin W. Fick Observatory, Department of Physics and Astronomy, Iowa State University.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1993-09-27</date>
+					<date type="A">1995-01-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Statistical Response of Randomly Excited Nonlinear Radial Oscillations in Polytropes</title>
+				<feature></feature>
+				<page>0045-0052</page>
+				<abstract />
+				<keywords>Pulsation;radial, star;polytropes, noise.</keywords>
+				<authors>
+					<author>
+						<name first="Anunay K." last="Chaudhary">Anunay K. Chaudhary</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110007, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V. B." last="Bhatia">V. B. Bhatia</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110007, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. K." last="Das">M. K. Das</name>
+						<affiliation>Department of Physics and Electronics, Sri Venkateswara College, University of Delhi, Dhaula Kuan, New Delhi 110 021, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. K." last="Tavakol">R. K. Tavakol</name>
+						<affiliation>School of Mathematical Sciences, Queen Mary and Westfield College, Mile End Road, London El 4NS, U.K.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1993-06-15</date>
+					<date type="A">1995-03-29</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Are Many Pulsars Processed in Binary Systems?</title>
+				<feature></feature>
+				<page>0053-0067</page>
+				<abstract />
+				<keywords>Pulsars;stars: evolution;stars: magnetic, stars: stellar statistics.</keywords>
+				<authors>
+					<author>
+						<name first="A. A." last="Deshpande">A. A. Deshpande</name>
+						<affiliation>Raman Research Institute, Bangalore 560080, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Ramachandran">R. Ramachandran</name>
+						<affiliation>Raman Research Institute, Bangalore 560080, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Srinivasan">G. Srinivasan</name>
+						<affiliation>Raman Research Institute, Bangalore 560080, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1995-05-05</date>
+					<date type="A">1995-06-08</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02" month="" year="1995" info="">
+			<entry hassup="0">
+				<title>The Progenitors of Pulsars</title>
+				<feature></feature>
+				<page>0069-0088</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="A. A." last="Deshpande">A. A. Deshpande</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, INDIA.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Ramachandran">R. Ramachandran</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, INDIA.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Srinivasan">G. Srinivasan</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, INDIA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>New Pulsar/Supernova Remnant Associations</title>
+				<feature></feature>
+				<page>0089-0095</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="W. M." last="Goss">W. M. Goss</name>
+						<affiliation>National Radio Astronomy Observatory, Socorro, NM, USA</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. A." last="Frail">D. A. Frail</name>
+						<affiliation>National Radio Astronomy Observatory, Socorro, NM, USA</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. B. Z." last="Whiteoak">J. B. Z. Whiteoak</name>
+						<affiliation>School of Physics, University of Sydney, Sydney, Australia</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>	
+			</entry>
+			<entry hassup="0">
+				<title>Pulsar Velocities</title>
+				<feature></feature>
+				<page>0097-0106</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="A. G." last="Lyne">A. G. Lyne</name>
+						<affiliation>The University of Manchester, Nuffield Radio Astronomy Laboratories, Jodrell Bank, Macclesfield, Cheshire SK11 9DL</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D. R." last="Lorimer">D. R. Lorimer</name>
+						<affiliation>The University of Manchester, Nuffield Radio Astronomy Laboratories, Jodrell Bank, Macclesfield, Cheshire SK11 9DL</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Shape of Pulsar Beams</title>
+				<feature></feature>
+				<page>0107-0117</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Manchester" last="Manchester">R. N. Manchester</name>
+						<affiliation>Australia Telescope National Facility, CSIRO, P. O. Box 76, Epping NSW 2121, Australia.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Magnetospheric Models of Pulsars–Outstanding Questions </title>
+				<feature></feature>
+				<page>0119-0135</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="L." last="Mestel">L. Mestel</name>
+						<affiliation>Astronomy Centre, University of Sussex, Falmer, Brighton BN1 9QH, England</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Models for Radio Emission from Pulsars – The Outstanding issues</title>
+				<feature></feature>
+				<page>0137-0164</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="D. B." last="Melrose">D. B. Melrose</name>
+						<affiliation>Research Centre for Theoretical Astrophysics, School of Physics, University of Sydney, NSW 2006, Australia</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Millisecond Pulsar Radiation Properties</title>
+				<feature></feature>
+				<page>0165-0171</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="D. C." last="Backer">D. C. Backer</name>
+						<affiliation>Astronomy Department, University of California, Berkeley, CA 94720</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Gamma-Ray Pulsars</title>
+				<feature></feature>
+				<page>0713-0178</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Malvin" last="Ruderman">Malvin Ruderman</name>
 						<affiliation></affiliation>
 						<email />
 					</author>
@@ -7654,20 +8005,25 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Timing Noise and Glitches</title>
 				<feature></feature>
-				<page></page>
+				<page>0179-0190</page>
 				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="A. G." last="Lyne">A. G. Lyne</name>
+						<affiliation>The University of Manchester, Nuffield Radio Astronomy Laboratories, Jodrell Bank, Macclesfield, Cheshire SK119DL</affiliation>
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. S." last="Pritchard">R. S. Pritchard</name>
+						<affiliation>The University of Manchester, Nuffield Radio Astronomy Laboratories, Jodrell Bank, Macclesfield, Cheshire SK119DL</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. L." last="Shemar">S. L. Shemar</name>
+						<affiliation>The University of Manchester, Nuffield Radio Astronomy Laboratories, Jodrell Bank, Macclesfield, Cheshire SK119DL</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -7677,20 +8033,15 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Lense-Thirring Precession of Radio Pulsars</title>
 				<feature></feature>
-				<page></page>
+				<page>0191-0206</page>
 				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email />
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="R. D." last="Blandford">R. D. Blandford</name>
+						<affiliation>130–33 Caltech, Pasadena, CA 91125, USA.</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -7700,20 +8051,15 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Spin-Driven Changes in Neutron Star Magnetic Fields</title>
 				<feature></feature>
-				<page></page>
+				<page>0207-0216</page>
 				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email />
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Malvin" last="Ruderman">Malvin Ruderman</name>
+						<affiliation>Department of Physics, Columbia University, 538 West 120th Street, New York, NY 10027, USA.</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -7723,20 +8069,110 @@
 				</dates>
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>The Evolution of the Magnetic Fields of Neutron Stars</title>
 				<feature></feature>
-				<page></page>
+				<page>0217-0232</page>
 				<abstract />
 				<keywords></keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="Dipankar" last="Bhattacharya">Dipankar Bhattacharya</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Population of Binary and Millisecond Pulsars</title>
+				<feature></feature>
+				<page>0233-0244</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="R. N." last="Manchester">R. N. Manchester</name>
+						<affiliation>Australia Telescope National Facility, CSIRO, P. O. Box 76, Epping NSW 2121, Australia.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Deep Radio Observations of the Rich Globular Clusters Terzan 5 and Liller 1</title>
+				<feature></feature>
+				<page>0245-0253</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="A. S." last="Fruchter">A. S. Fruchter</name>
+						<affiliation>Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21210</affiliation>
 						<email />
 					</author>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
+						<name first="W. M." last="Goss">W. M. Goss</name>
+						<affiliation>ΝRΑΟ, Ρ.Ο. Box 0,. Socorro, NM 87801</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Scenarios for the formation of binary and millisecond pulsars - A Critical assessment</title>
+				<feature></feature>
+				<page>0255-0288</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="E.P.J. van den" last="Heuvel">E.P.J. van den Heuvel</name>
+						<affiliation>Astronomical Institute ‘Anton Pannekoek’, University of Amsterdam &amp; Center for High-Energy Astrophysics, Amsterdam, The Netherlands</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spin Evolution of Neutron Satars in Binary Systems</title>
+				<feature></feature>
+				<page>0289-0305</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Pranab" last="Ghosh">Pranab Ghosh</name>
+						<affiliation>Tata Institute of Fundamental Research, Bombay 400005, INDIA.</affiliation>
+						<email>pranab@tifrvax.tifr.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M"></date>
+					<date type="A"></date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Binary Pulsars and Relativistic Gravity</title>
+				<feature></feature>
+				<page>0307-0325</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Joseph H. Taylor" last="Jr.">Joseph H. Taylor Jr.</name>
+						<affiliation>Princeton University, Princeton, New Jersey 08544</affiliation>
 						<email />
 					</author>
 				</authors>
@@ -7746,6 +8182,3822 @@
 				</dates>
 			</entry>
 		</issue>
+		<issue inum="03 &amp; 04 " month="" year="1995" info="">
+			<entry hassup="0">
+				<title>Preface</title>
+				<feature></feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="G." last="Srinivasan">G. Srinivasan</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Polarization-Mode Separation and the Emission Geometry of Pulsar 0823 + 26: A New Pattern of Pulsar Emission?</title>
+				<feature></feature>
+				<page>0327-0355</page>
+				<abstract />
+				<keywords>Pulsars;polarization;PSR B0823 + 26.</keywords>
+				<authors>
+					<author>
+						<name first="Joanna M." last="Rankin">Joanna M. Rankin</name>
+						<affiliation>Physics Department, University of Vermont, Burlington, Vermont 05405 USA</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="N." last="Rathnasree">N. Rathnasree</name>
+						<affiliation>Raman Research Institute, Bangalore 560080 India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1995-08-29</date>
+					<date type="A">1995-11-17</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Disk Luminosity and Angular Momentum for Accreting, Weak Field Neutron Stars in the ‘Slow’ Rotation Approximation</title>
+				<feature></feature>
+				<page>0357-0374</page>
+				<abstract />
+				<keywords>Stars: accretion;stars: accretion disks;stars: neutron;stars: rotation.</keywords>
+				<authors>
+					<author>
+						<name first="Bhaskar" last="Datta">Bhaskar Datta</name>
+						<affiliation>Indian institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<affiliation>Visiting Professor: Raman Research Institute, Bangalore 560 080 India. </affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Arun V." last="Thampan">Arun V. Thampan</name>
+						<affiliation>Indian institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Paul J." last="Wiita">Paul J. Wiita</name>
+						<affiliation>Indian institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<affiliation>Permanent address: Department of Physics &amp; Astronomy, Georgia State University, Atlanta, GA 30303–3083, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1995-06-29</date>
+					<date type="A">1995-08-22</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Numerical Survey of Neutron Star Crustal Density Profiles</title>
+				<feature></feature>
+				<page>0375-0391</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="B." last="Datta">Β. Datta</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Α. V." last="Thampan">Α. V. Thampan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D." last="Bhattacharya">D. Bhattacharya</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080 India.</affiliation>
+						<affiliation>Visiting Professor: Raman Research Institute, Bangalore 560 080 India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1995-06-17</date>
+					<date type="A">1995-08-14</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Flux Monitoring at 327 MHz during SL9-Jupiter Collision</title>
+				<feature></feature>
+				<page>0393-0398</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Rakesh Κ." last="Malik">Rakesh Κ. Malik</name>
+						<affiliation>National Centre for Radio Astrophysics, TIFR, Post Box 3, Pune 411 007.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Pradeep" last="Gothoskar">Pradeep Gothoskar</name>
+						<affiliation>National Centre for Radio Astrophysics, TIFR, Post Box 3, Pune 411 007. </affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. K." last="Manohran">P. K. Manohran</name>
+						<affiliation>Radio Astronomy Centre, TIFR, Ooty 643001</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Swarup">G. Swarup</name>
+						<affiliation>National Centre for Radio Astrophysics, TIFR, Post Box 3, Pune 411 007. </affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K." last="Subramanian">K. Subramanian</name>
+						<affiliation>National Centre for Radio Astrophysics, TIFR, Post Box 3, Pune 411 007. </affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="V." last="Balasubramanian">V. Balasubramanian</name>
+						<affiliation>Radio Astronomy Centre, TIFR, Ooty 643001</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1995-07-31</date>
+					<date type="A">1995-08-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Effect of Strong Magnetic Field on Cosmic Quark-Hadron Phase Transition and Baryon Inhomogeneity</title>
+				<feature></feature>
+				<page>0399-0405</page>
+				<abstract />
+				<keywords>Cosmic quark-hadron phase transition;Baryon number inhomogeneity;equation of state;Landau levels;quark nuggets.</keywords>
+				<authors>
+					<author>
+						<name first="Somenath" last="Chakrabarty">Somenath Chakrabarty</name>
+						<affiliation>Department of Physics, University of Kalyani, West Bengal, India 741 235, and Inter-University Centre for Astronomy and Astrophysics, Post Bag 4, Ganeshkhind, Pune, India 411 007.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1995-07-04</date>
+					<date type="A">1995-12-01</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>VV Orionis – Improved Elements</title>
+				<feature></feature>
+				<page>0407-0424</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Μ. Β. Κ." last="Sarma">Μ. Β. Κ. Sarma</name>
+						<affiliation>Centre for Advanced Study in Astronomy, Osmania University, Hyderabad 500 007, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. Vivekananda" last="Rao">P. Vivekananda Rao</name>
+						<affiliation>Centre for Advanced Study in Astronomy, Osmania University, Hyderabad 500 007, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1995-04-03</date>
+					<date type="A">1995-08-01</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0425-0426</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0427-0428</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="17">
+		<issue inum="01 &amp; 02" month="" year="1996" info="">
+			<entry hassup="0">
+				<title>The Chemical Compositions and Ages of Globular Clusters</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Russell" last="Cannon">Russell Cannon</name>
+						<affiliation>Anglo-Australian Observatory, Epping NSW 2121, Australia</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-03-28</date>
+					<date type="A">1996-05-14</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Application of ‘CLEAN’ in the Power Spectral Analysis of Non-Uniformly Sampled Pulsar Timing Data</title>
+				<feature></feature>
+				<page>0007-0016</page>
+				<abstract />
+				<keywords>Pulsars: timing noise;power spectra;data processing: CLEAN algorithm.</keywords>
+				<authors>
+					<author>
+						<name first="Α. Α." last="Deshpande">Α. Α. Deshpande</name>
+						<affiliation>Physics Department, University of Tasmania, GPO Box252C, Hobart, Tasmania 7001, Australia.</affiliation>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="F." last=" D’Alessandro"> F. D’Alessandro</name>
+						<affiliation>Physics Department, University of Tasmania, GPO Box252C, Hobart, Tasmania 7001, Australia.</affiliation>
+						<affiliation>Department of Physical Sciences, University of Tasmania at Launceston, PO Box 1214, Launceston, Tasmania 7250, Australia. </affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ρ. Μ." last="McCulloch">Ρ. Μ. McCulloch</name>
+						<affiliation>Physics Department, University of Tasmania, GPO Box252C, Hobart, Tasmania 7001, Australia.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-05-13</date>
+					<date type="A">1996-05-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Limits on the Chirality of Interstellar and Intergalactic Space</title>
+				<feature></feature>
+				<page>0017-0021</page>
+				<abstract />
+				<keywords>Chirality;propagation of light vacuum properties.</keywords>
+				<authors>
+					<author>
+						<name first="Maurice" last="Goldhaber">Maurice Goldhaber</name>
+						<affiliation>Brookhaven National Laboratory, Box 5000, Upton NY 11973–5000</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Virginia" last="Trimble">Virginia Trimble</name>
+						<affiliation>Astronomy Department, University of Maryland,College Park MD 20742 and Physics Department, University of California, Irvine CA 92717.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1995-12-28</date>
+					<date type="A">1996-03-25</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectral Variations of DY Cen</title>
+				<feature></feature>
+				<page>0023-0040</page>
+				<abstract />
+				<keywords>Hot RCrB stars;radial velocity;photospheric and nebular lines.</keywords>
+				<authors>
+					<author>
+						<name first="Sunetra" last="Giridhar">Sunetra Giridhar</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ν. Kameswara" last="Rao">Ν. Kameswara Rao</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="David L." last="Lambert">David L. Lambert</name>
+						<affiliation>Department of Astronomy, University of Texas, Austin, TX 78712 USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-02-07</date>
+					<date type="A">1996-03-29</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Einstein A-coefficients for Rotational Transitions in Cyclopropenylidene</title>
+				<feature></feature>
+				<page>0041-0052</page>
+				<abstract />
+				<keywords>C<sub>3</sub>H<sub>2</sub>-molecule;Einstein A-coefficients;molecular data.</keywords>
+				<authors>
+					<author>
+						<name first="A. K." last="Sharma">A. K. Sharma</name>
+						<affiliation>Department of Physics, University of Gorakhpur, Gorakhpur 273 009, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Suresh" last="Chandra">Suresh Chandra</name>
+						<affiliation>Department of Physics, University of Gorakhpur, Gorakhpur 273 009, India</affiliation>
+						<affiliation>Present address: School of Sciences, Indira Gandhi National Open University, New Delhi 110068.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1994-10-06</date>
+					<date type="A">1996-02-19</date>
+				</dates>
+			</entry>
+		</issue>	
+		<issue inum="03 &amp; 04" month="" year="1995" info="">
+			<entry hassup="0">
+				<title>Stars: Their Structure and Evolution</title>
+				<feature></feature>
+				<page>0053-0076</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="G." last="Srinivasan">G. Srinivasan</name>
+						<affiliation>Raman Research Institute, C. V. Raman Avenue, Bangalore 560 080. India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Neutron Stars Before 1967 and my debt to Chandra</title>
+				<feature></feature>
+				<page>0077-0079</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Ε. Ε." last="Salpeter">Ε. Ε. Salpeter</name>
+						<affiliation>Cornell University, Ithaca, NY 14853, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Stellar-Dynamical Oeuvre</title>
+				<feature></feature>
+				<page>0081-0093</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="James" last="Binney">James Binney</name>
+						<affiliation>Theoretical Physics, Oxford University, Keble Road, Oxford 0X1 3NP, UK.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Radiative Transfer</title>
+				<feature></feature>
+				<page>0095-0112</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="George B." last="Rybicki">George B. Rybicki</name>
+						<affiliation>Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138. U.S.A.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Negative Ion of Hydrogen</title>
+				<feature></feature>
+				<page>0113-0145</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="A. R. P." last="Rau">A. R. P. Rau</name>
+						<affiliation>Department of Physics and Astronomy, Louisiana State University, Baton Rouge, Louisiana 70803-4001, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>S. Chandrasekhar and Magnetohydrodynamics</title>
+				<feature></feature>
+				<page>0147-0166</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="E. N." last="Parker">E. N. Parker</name>
+						<affiliation>Enrico Fermi Institute and Department of Physics and Astronomy, University of Chicago, Chicago, Illinois 60637, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Virial Method and the Classical Ellipsoids</title>
+				<feature></feature>
+				<page>0167-0182</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Norman R." last="Lebovitz">Norman R. Lebovitz</name>
+						<affiliation>The University of Chicago, Chicago IL 60637, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Making the Transition from Newton to Einstein: Chandrasekhar’s Work on the Post-Newtonian Approximation and Radiation Reaction</title>
+				<feature></feature>
+				<page>0183-0197</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Bernard F." last="Schutz">Bernard F. Schutz</name>
+						<affiliation>Max Planck Institute for Gravitational Physics, The Albert Einstein Institute, Potsdam, Germany.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Stability Theory of Relativistic Stars</title>
+				<feature></feature>
+				<page>0199-0211</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="John L." last="Friedman">John L. Friedman</name>
+						<affiliation>Department of Physics, University of Wisconsin-Milwaukee, Milwaukee, WI 53201. USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Chandrasekhar, Black Holes, and Singularities</title>
+				<feature></feature>
+				<page>0213-0231</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Roger" last="Penrose">Roger Penrose</name>
+						<affiliation>Mathematical Institute, University of Oxford, Oxford 0X1 3LB, UK.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Chandra and his students at Yerkes Observatory</title>
+				<feature></feature>
+				<page>0233-0268</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Donald Ε." last="Osterbrock">Donald Ε. Osterbrock</name>
+						<affiliation>University of Chicago/Lick Observatory, University of California, Santa Cruz, California 95064. USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Publications</title>
+				<feature></feature>
+				<page>269-0298</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="S." last="Chandrasekhar">S. Chandrasekhar</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Author Index </title>
+				<feature></feature>
+				<page>0299-0299</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0301-0302</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="18">
+		<issue inum="01" month="" year="1997" info="">
+			<entry hassup="0">
+				<title>In Memoriam</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="V. A." last="Ambartsumian">V. A. Ambartsumian</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Adriaan" last="Blaauw">Adriaan Blaauw</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>To Victor Ambartsumian on His 80th Birthday</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="S." last="Chandrasekhar">S. Chandrasekhar</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Power Spectrum Analysis of the Timing Noise in 18 Southern Pulsars</title>
+				<feature></feature>
+				<page>0005-0014</page>
+				<abstract />
+				<keywords>Pulsars: timing noise;power spectra;neutron star.</keywords>
+				<authors>
+					<author>
+						<name first="F." last="D’Alessandro">F. D’Alessandro</name>
+						<affiliation>Department of Physical Sciences, University of Tasmania at Launceston, PO Box 1214, Launceston, Tasmania 7250, Australia.</affiliation>
+						<affiliation>Physics Department, University of Tasmania, GPO Box 252C, Hobart, Tasmania 7001, Australia.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. A." last="Deshpande">A. A. Deshpande</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. M." last="McCulloch">P. M. McCulloch</name>
+						<affiliation>Physics Department, University of Tasmania, GPO Box 252C, Hobart, Tasmania 7001, Australia.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-06-14</date>
+					<date type="A">1996-09-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Massive Compact Dwarf Stars and C-field</title>
+				<feature></feature>
+				<page>0015-0021</page>
+				<abstract />
+				<keywords>Dwarf stars;neutron stars;C-field</keywords>
+				<authors>
+					<author>
+						<name first="L. P." last="Singh">L. P. Singh</name>
+						<affiliation>Physics Department, Utkal University, Bhubaneswar 751 004, India; e-mail: lps@utkal.ernet.in</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. K." last="Sahu">P. K. Sahu</name>
+						<affiliation>Physical Research Laboratory, Theory Group, Ν avarangpura, Ahmedabad 380 009, India; email: pradip@prl.ernet.in </affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-01-04</date>
+					<date type="A">1996-10-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Gravitational Potential Energy of Interpenetrating Spherical Galaxies in Hernquist’s Model</title>
+				<feature></feature>
+				<page>0023-0032</page>
+				<abstract />
+				<keywords>Stellar systems: dynamics;galaxies: interactions.</keywords>
+				<authors>
+					<author>
+						<name first="Κ. S. V. S." last="Narasimhan">Κ. S. V. S. Narasimhan</name>
+						<affiliation>Inter University, Centre for Astronomy and Astrophysics, Ganeshkhind, Pune 411007, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. S." last="Sastry">K. S. Sastry</name>
+						<affiliation>Inter University, Centre for Astronomy and Astrophysics, Ganeshkhind, Pune 411007, India</affiliation>
+						<affiliation>Permanent Address: Department of Astronomy, Osmania University, Hyderabad 500007.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Saleh Mohammed" last="Alladin">Saleh Mohammed Alladin</name>
+						<affiliation>Inter University, Centre for Astronomy and Astrophysics, Ganeshkhind, Pune 411007, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-02-15</date>
+					<date type="A">1996-09-19</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Spectra of Quasiperiodic Oscillations of Galactic X-ray Sources;Dynamical Regimes from a Simple Model</title>
+				<feature></feature>
+				<page>0033-0037</page>
+				<abstract />
+				<keywords>Binaries: close;stars; oscillations;galaxy: centre;X-rays: stars.</keywords>
+				<authors>
+					<author>
+						<name first="Reza" last="Tavakol">Reza Tavakol</name>
+						<affiliation>Astronomy Unit, School of Mathematical Sciences, Queen Mary &amp; Westfield College, University of London, U.K.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Harinder P." last="Singh">Harinder P. Singh</name>
+						<affiliation>Department of Physics, Sri Venkateswara College, University of Delhi, New Delhi 110021 India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-05-04</date>
+					<date type="A">1996-07-05</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Chromospheric Evolution and the Flare Activity of Super-Active Region NOAA 6555 </title>
+				<feature></feature>
+				<page>0039-0055</page>
+				<abstract />
+				<keywords>Super-active region;chromosphere;flare actiity;magnetic field.</keywords>
+				<authors>
+					<author>
+						<name first="Prasad C." last="Debi">Prasad C. Debi</name>
+						<affiliation>Udaipur Solar Observatory (Physical Research Laboratory), Udaipur 313 001, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ashok" last="Ambastha">Ashok Ambastha</name>
+						<affiliation>Udaipur Solar Observatory (Physical Research Laboratory), Udaipur 313 001, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Nandita" last="Srivastava">Nandita Srivastava</name>
+						<affiliation>Udaipur Solar Observatory (Physical Research Laboratory), Udaipur 313 001, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Sushanta C." last="Tripathy">Sushanta C. Tripathy</name>
+						<affiliation>Udaipur Solar Observatory (Physical Research Laboratory), Udaipur 313 001, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Mona J." last="Hagyard">Mona J. Hagyard</name>
+						<affiliation>ES52, Space Science Laboratory, NASA/Marshall Space Flight Center, Huntsville, AL 35812, USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-05-09</date>
+					<date type="A">1996-06-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>On the Role of Nonthermal Electrons in EUV and X-ray Line Emissions from Solar Flares</title>
+				<feature></feature>
+				<page>0057-0071</page>
+				<abstract />
+				<keywords>Solar flares: X-ray, EUV line emission;non thermal particle distribution.</keywords>
+				<authors>
+					<author>
+						<name first="Ranjna" last="Bakaya">Ranjna Bakaya</name>
+						<affiliation>Radio Science Division, National Physical Laboratory, New Delhi 110012, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. R." last="Rausaria">R. R. Rausaria</name>
+						<affiliation>Council of Distance Education, IGNOU, New Delhi 110016, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-02-22</date>
+					<date type="A">1996-06-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Ejections of Population IIΙ Objects Seen as Blueshifted QSOs?</title>
+				<feature></feature>
+				<page>0073-0085</page>
+				<abstract />
+				<keywords>Quasars: redshifts of.</keywords>
+				<authors>
+					<author>
+						<name first="Shirin" last="Haque-Copilah">Shirin Haque-Copilah</name>
+						<affiliation>Department of Physics, University of the West Indies, St. Augustine, Trinidad, West Indies. </affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="D." last="Basu">D. Basu</name>
+						<affiliation>Department of Physics, Carleton University, Ottawa, ON, K1S 5B6, Canada</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M." last="Valtonen">M. Valtonen</name>
+						<affiliation>Tuorla Observatory, 21500 Piikkio, Finland</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-02-06</date>
+					<date type="A">1996-07-16</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Inverse Compton Scattering – Revisited</title>
+				<feature></feature>
+				<page>0087-0090</page>
+				<abstract />
+				<keywords>Radiation mechanisms.</keywords>
+				<authors>
+					<author>
+						<name first="T." last="Padmanabhan">T. Padmanabhan</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-10-28</date>
+					<date type="A">1996-11-30</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="02 &amp; 03" month="" year="1997" info="">
+			<entry hassup="0">
+				<title>On the Polarisation and Emission Geometry of Pulsar 1929+10: Does Its Emission Come from a Single Pole or Two Poles?</title>
+				<feature></feature>
+				<page>0091-0131</page>
+				<abstract />
+				<keywords>Pulsars;polarisation;PSR Β1929+10.</keywords>
+				<authors>
+					<author>
+						<name first="Joanna Μ." last="Rankin">Joanna Μ. Rankin</name>
+						<affiliation>Physics Department, University of Vermont, Burlington, Vermont 05405 USA</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="N." last="Rathnasree">N. Rathnasree</name>
+						<affiliation>Raman Research Institute Bangalore 560 080 India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-11-21</date>
+					<date type="A">1997-06-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Intergalactic UV Background Radiation Field</title>
+				<feature></feature>
+				<page>0133-0143</page>
+				<abstract />
+				<keywords>QSO;absorption lines;Ly 𝛼-proximity effect;intergalactic ultraviolet background radiation.</keywords>
+				<authors>
+					<author>
+						<name first="Snigdha" last="Das">Snigdha Das</name>
+						<affiliation>Physics Department, Utkal University Bhubaneswar, 751004, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Pushpa" last="Khare">Pushpa Khare</name>
+						<affiliation>Physics Department, Utkal University Bhubaneswar, 751004, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1997-05-13</date>
+					<date type="A">1997-10-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>H𝛼 Emission from Late Type Be Stars</title>
+				<feature></feature>
+				<page>0145-0150</page>
+				<abstract />
+				<keywords>Be stars;Η-alpha line;He stars.</keywords>
+				<authors>
+					<author>
+						<name first="Krishna M. V." last="Apparao">Krishna M. V. Apparao</name>
+						<affiliation>Department of Physics, University of Bombay, Vidyanagari, SantaCruz East, Bombay 400 098, India </affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. P." last="Tarafdar">S. P. Tarafdar</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1996-04-15</date>
+					<date type="A">1997-04-15</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The effective technique of the charged particles background discrimination in the atmospheric Cherenkov light detectors</title>
+				<feature></feature>
+				<page>0151-0159</page>
+				<abstract />
+				<keywords>VHE 𝛾-ray astronomy-technique.</keywords>
+				<authors>
+					<author>
+						<name first="N. N." last="Chalenko">N. N. Chalenko</name>
+						<affiliation>Crimean Astrophysical Observatory p/o Nauchny, Crimea 334413, Ukraine</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="O. R." last="Kalekin">O. R. Kalekin</name>
+						<affiliation>Crimean Astrophysical Observatory p/o Nauchny, Crimea 334413, Ukraine</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="I. Neshpor" last="Yu">I. Neshpor Yu</name>
+						<affiliation>Crimean Astrophysical Observatory p/o Nauchny, Crimea 334413, Ukraine</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. A." last="Stepanian">A. A. Stepanian</name>
+						<affiliation>Crimean Astrophysical Observatory p/o Nauchny, Crimea 334413, Ukraine</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1997-01-29</date>
+					<date type="A">1997-07-08</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Radial Velocities and 𝐷𝐷𝑂, 𝐵𝑉 Photometry of Henry Draper G5 – M Stars near the North Galactic Pole</title>
+				<feature></feature>
+				<page>0161-0227</page>
+				<abstract />
+				<keywords>North Galactic Pole;radial velocities—𝐵𝑉 and 𝐷𝐷𝑂 photometry;space velocities;abundances;Galactic structure.</keywords>
+				<authors>
+					<author>
+						<name first="K. M." last="Yoss">K. M. Yoss</name>
+						<affiliation>University of Illinois, Astronomy Department, Urbana-Champaign, Urbana, Illinois 61801, USA</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. F." last="Griffin">R. F. Griffin</name>
+						<affiliation>The Observatories, Madingley Road, Cambridge CB3 OHA, England</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1997-07-19</date>
+					<date type="A">1997-10-24</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="04" month="" year="1997" info="Special issue Big Bang and Alternative Cosmologies: A Critical Appraisal">
+			<entry hassup="0">
+				<title>Preface</title>
+				<feature></feature>
+				<page>0229-0229</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Prof. C. N. R." last="Rao">Prof. C. N. R. Rao</name>
+						<affiliation>President, Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>MBR as the Relic of Big Bang</title>
+				<feature></feature>
+				<page>0231-0240</page>
+				<abstract />
+				<keywords>Cosmic microwave background;cosmology: theory;large-scale structure of universe.</keywords>
+				<authors>
+					<author>
+						<name first="Tarun" last="Souradeep">Tarun Souradeep</name>
+						<affiliation>CITA, University of Toronto, Toronto, ON M5S 3H8, Canada.</affiliation>
+						<email>tarun@cita,utoronto.ca</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Evidence for Evolution as Support for Big Bang</title>
+				<feature></feature>
+				<page>0241-0249</page>
+				<abstract />
+				<keywords>Galaxies;galaxies: active, cluster, evolution, intergalactic medium;cosmology.</keywords>
+				<authors>
+					<author>
+						<name first="" last="Gopal-Krishna">Gopal-Krishna</name>
+						<affiliation>National Centre for Radio Astrophysics, TIFR, Pune University Campus, Pune 411007, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Microwave Background Radiation Related Evidence in Favour of the Standard Model</title>
+				<feature></feature>
+				<page>0251-0255</page>
+				<abstract />
+				<keywords>Cosmic microwave background;cosmology: observations;conmology: theory.</keywords>
+				<authors>
+					<author>
+						<name first="Ravi" last="Subrahmanyan">Ravi Subrahmanyan</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India</affiliation>
+						<email>rsubrahm@rri.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Evidence for the Standard Model through QSO Absorption Lines</title>
+				<feature></feature>
+				<page>0257-0261</page>
+				<abstract />
+				<keywords>Intergalactic medium;quasars: absorption lines;galaxies: halos.</keywords>
+				<authors>
+					<author>
+						<name first="Pushpa" last="Khare">Pushpa Khare</name>
+						<affiliation>Physics Department, Utkal University, Bhubaneswar 751004, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Cosmic Thermal Neutrino Background: Can it be Detected?</title>
+				<feature></feature>
+				<page>0263-0269</page>
+				<abstract />
+				<keywords>Cosmic neutrino background;cosmic rays;massive neutrino;topological defects.</keywords>
+				<authors>
+					<author>
+						<name first="Pijushpani" last="Bhattacharjee">Pijushpani Bhattacharjee</name>
+						<affiliation>Laboratory for High Energy Astrophysics, Code 661, NASA/Goddard Space Flight Center, Greenbelt, MD 20771, USA.</affiliation>
+						<affiliation>NAS/NRC Senior Research Associate on sabbatical leave from Indian Institute of Astrophysics, Bangalore 560 034, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>A Case for the Standard Model</title>
+				<feature></feature>
+				<page>0271-0294</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="G. A." last="Tammann">G. A. Tammann</name>
+						<affiliation>Astronomisches Institut der Universität Basel, Venusstr. 7, CH-4102 Binningen, Switzerland</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Ages of the Galactic Globular Clusters</title>
+				<feature></feature>
+				<page>0295-0301</page>
+				<abstract />
+				<keywords>Stellar system;star clusters;ages.</keywords>
+				<authors>
+					<author>
+						<name first="Ram" last="Sagar">Ram Sagar</name>
+						<affiliation>U. P. State Observatory, Manora Peak, Nainital 263 129, India</affiliation>
+						<email>sagar@upso.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Constraints on Big Bang Models from Structure Formation</title>
+				<feature></feature>
+				<page>0303-0311</page>
+				<abstract />
+				<keywords>Cosmology;Big Bang Model;structure formation</keywords>
+				<authors>
+					<author>
+						<name first="T." last="Padmanabhan">Τ. Padmanabhan</name>
+						<affiliation>Inter-University Centre for Astronomy and Astrophysics, Post Bag 4, Ganeshkhind, Pune 411 007, India</affiliation>
+						<email>paddy@iucaa.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Accelerator Information on SUSY and its Implications for Dark Matter</title>
+				<feature></feature>
+				<page>0313-0319</page>
+				<abstract />
+				<keywords>Dark matter;supersymmetry.</keywords>
+				<authors>
+					<author>
+						<name first="Rohini Μ." last="Godbole">Rohini Μ. Godbole</name>
+						<affiliation>Centre for Theoretical Studies, Indian Institute of Science, Bangalore, 560012, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Epoch of Galaxy Formation</title>
+				<feature></feature>
+				<page>0321-0322</page>
+				<abstract />
+				<keywords>Galaxies;AGNs;black holes</keywords>
+				<authors>
+					<author>
+						<name first="Arati" last="Chokshi">Arati Chokshi</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Some Critiques of the Big Bang Cosmology</title>
+				<feature></feature>
+				<page>0323-0333</page>
+				<abstract />
+				<keywords>Cosmology;Big Bang.</keywords>
+				<authors>
+					<author>
+						<name first="Jean-Claude" last="Pecker">Jean-Claude Pecker</name>
+						<affiliation>Collège de France, Paris</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Singularities and Cosmic Censorship</title>
+				<feature></feature>
+				<page>0335-0338</page>
+				<abstract />
+				<keywords>Black-holes;naked singularities;cosmic censorship.</keywords>
+				<authors>
+					<author>
+						<name first="Τ. P." last="Singh">Τ. P. Singh</name>
+						<affiliation>Theoretical Astrophysics Group, Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>tpsingh@tifrvax.tifr.res.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Brans-Dicke Class of Cosmologies</title>
+				<feature></feature>
+				<page>0339-0342</page>
+				<abstract />
+				<keywords>Mach’s Principle;Brans-Dicke;cosmology.</keywords>
+				<authors>
+					<author>
+						<name first="Τ. R." last="Seshadri">Τ. R. Seshadri</name>
+						<affiliation>Mehta Research Institute of Mathematics and Mathematical Physics, Chhatnag Road, Jhusi, Allahabad 211019, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Inhomogeneous Imperfect Fluid Spherical Models without Big-Bang Singularity</title>
+				<feature></feature>
+				<page>0343-0347</page>
+				<abstract />
+				<keywords>Inhomogeneous cosmology;singularity-free models.</keywords>
+				<authors>
+					<author>
+						<name first="Naresh" last="Dadhich">Naresh Dadhich</name>
+						<affiliation>Inter-University Centre for Astronomy &amp; Astrophysics, Post Bag 4, Ganeshkhind, Pune 411 007, India</affiliation>
+						<email>nkd@iucaa.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>An Alternative Approach to Cosmogony and Cosmology</title>
+				<feature></feature>
+				<page>0349-0351</page>
+				<abstract />
+				<keywords>Cosmology;cosmogony;relativistic jets;quasi-stellarobjects.</keywords>
+				<authors>
+					<author>
+						<name first="G." last="Burbidge">G. Burbidge</name>
+						<affiliation>University of California, San Diego, Center for Astrophysics &amp; Space Sciences, and Department of Physics, La Jolla, CA 92093-0424 USA</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Quasi-Steady State Cosmology: Some Recent Developments</title>
+				<feature></feature>
+				<page>0353-0362</page>
+				<abstract />
+				<keywords>Cosmology;creation of matter;structure formation.</keywords>
+				<authors>
+					<author>
+						<name first="Jayant V." last="Narlikar">Jayant V. Narlikar</name>
+						<affiliation>Inter-University Centre for Astronomy and Astrophysics, Pune 411007, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Absence of Initial Singularities in Superstring Cosmology</title>
+				<feature></feature>
+				<page>0363-0379</page>
+				<abstract />
+				<keywords>Superstring theory;cosmology;initial singularity problem;minimum length.</keywords>
+				<authors>
+					<author>
+						<name first="Sanjay" last="Jain">Sanjay Jain</name>
+						<affiliation>Centre for Theoretical Studies, Indian Institute of Science, Bangalore 560012, India</affiliation>
+						<affiliation>Also at Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore 560064, and Associate Member of ICTP, Trieste.</affiliation>
+						<email>jain@cts.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Solving the Graceful Exit Problem in Superstring Cosmology</title>
+				<feature></feature>
+				<page>0381-0387</page>
+				<abstract />
+				<keywords>Dilaton gravity;superstring cosmology;back reaction;graceful exit.</keywords>
+				<authors>
+					<author>
+						<name first="Sukanta" last="Bose">Sukanta Bose</name>
+						<affiliation>Inter-University Centre for Astronomy and Astrophysics, Post Bag 4, Ganeshkhind, Pune 411007, India</affiliation>
+						<email>sbose@iucaa.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>A Search for a Problem Free Cosmology</title>
+				<feature></feature>
+				<page>0389-0392</page>
+				<abstract />
+				<keywords>Q-balls;non-minimal coupling;effective gravity.</keywords>
+				<authors>
+					<author>
+						<name first="Daksh" last="Lohiya">Daksh Lohiya</name>
+						<affiliation>Department of Physics and Astrophysics, University of Delhi, Delhi 110 007, India</affiliation>
+						<email>dlohiya@ducos.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Quasar Creation and Evolution into Galaxies</title>
+				<feature></feature>
+				<page>0393-0406</page>
+				<abstract />
+				<keywords>Quasars;redshifts;galaxies;evolution.</keywords>
+				<authors>
+					<author>
+						<name first="Halton" last="Arp">Halton Arp</name>
+						<affiliation>Max-Planck-Institut fuer Astrophysik 85740 Garching, Germany</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>An Analysis of 900 Rotation Curves of Southern Sky Spiral Galaxies: Do Rotation Curves Fall into Discrete Classes?</title>
+				<feature></feature>
+				<page>0407-0414</page>
+				<abstract />
+				<keywords>Spiral galaxies;rotation curves.</keywords>
+				<authors>
+					<author>
+						<name first="D. F." last="Roscoe">D. F. Roscoe</name>
+						<affiliation>School of Mathematics, Sheffield University, Sheffield, S3 7RH, UK</affiliation>
+						<email>D.Roscoe@ac.shef.uk</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Redshift Quantization in the Cosmic Background Rest Frame</title>
+				<feature></feature>
+				<page>0415-0433</page>
+				<abstract />
+				<keywords>Red shift;galaxies;cosmology.</keywords>
+				<authors>
+					<author>
+						<name first="W. G." last="Tifft">W. G. Tifft</name>
+						<affiliation>National Radio Astronomy Observatory2 Green Bank, West Virginia 24944, USA; Steward Observatory, University of Arizona, Tucson, Arizona 85721, USA</affiliation>
+						<affiliation>This work was carried out while on sabbatical leave from Steward Observatory, University of Arizona.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Quasars in Variable Mass Hypothesis</title>
+				<feature></feature>
+				<page>0435-0440</page>
+				<abstract />
+				<keywords>Hoyle-Narlikar cosmology;anomalous redshift;quasargalaxy associations.</keywords>
+				<authors>
+					<author>
+						<name first="P. Κ." last="Das">P. Κ. Das</name>
+						<affiliation>Indian Institute of Astrophysics, Koramangala, Bangalore 560034, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Periodicity in the Redshift Distribution of Quasi Stellar Objects</title>
+				<feature></feature>
+				<page>0441-0447</page>
+				<abstract />
+				<keywords>Redshift;Quasi Stellar Objects.</keywords>
+				<authors>
+					<author>
+						<name first="Debiprosad" last="Duari">Debiprosad Duari</name>
+						<affiliation>Theoretical Astrophysics Group, Tata Institute of Fundamental Research, Bombay 400005, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Velocity Dependent Inertial Induction: A Possible Mechanism for Cosmological Red Shift in a Quasi Static Infinite Universe</title>
+				<feature></feature>
+				<page>0449-0454</page>
+				<abstract />
+				<keywords>Cosmological red shift;stationary universe.</keywords>
+				<authors>
+					<author>
+						<name first="Amitabha" last="Amitabha Ghosh">Amitabha Ghosh</name>
+						<affiliation>Indian Institute of Technology, Kharagpur, 721302, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Quantized Redshifts: A Status Report</title>
+				<feature></feature>
+				<page>0455-0463</page>
+				<abstract />
+				<keywords>Galaxies: distances and redshifts, spiral, radio lines.</keywords>
+				<authors>
+					<author>
+						<name first="W. Μ." last="Napier">W. Μ. Napier</name>
+						<affiliation>Armagh Observatory, College Hill, Armagh BT61 9DG, Northern Ireland, UK</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="B. N. G." last="Guthrie">B. N. G. Guthrie</name>
+						<affiliation>5 Arden Street, Edinburgh EH9 1BR, Scotland, U.K.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Panel Discussion</title>
+				<feature></feature>
+				<page>0465-0475</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="N." last="Mukunda">Ν. Mukunda</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Questions and Comments that followed the Panel Discussion</title>
+				<feature></feature>
+				<page>0477-0489</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="J. V." last="Narlikar">J. V. Narlikar</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0491-0492</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0493-0495</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="19">
+		<issue inum="01-02" month="" year="1998" info="">
+			<entry hassup="0">
+				<title>Individual and Integrated Pulse Properties of PSR B0943+10 Involved in the Mode-Changing Phenomenon</title>
+				<feature></feature>
+				<page>0001-0018</page>
+				<abstract />
+				<keywords>Pulsars;B0943+10;mode changing;polarisation.</keywords>
+				<authors>
+					<author>
+						<name first="Svetlana A." last="Suleymanova">Svetlana A. Suleymanova</name>
+						<affiliation>Pushchino Radio Astronomy Observatory, P. Ν. Lebedev Physical Institute, Russian Academy of Sciences, Leninski Prospect, 53 Moscow 117924, Russia</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Vera A." last="Izvekova">Vera A. Izvekova</name>
+						<affiliation>Pushchino Radio Astronomy Observatory, P. Ν. Lebedev Physical Institute, Russian Academy of Sciences, Leninski Prospect, 53 Moscow 117924, Russia</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Joanna M." last="Rankin">Joanna M. Rankin</name>
+						<affiliation>Department of Physics, University of Vermont, Burlington, VT 05405, USA</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="N." last="Rathnasree">N. Rathnasree</name>
+						<affiliation>Raman Research Institute, Sadashivanagar, Bangalore 560 080, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1997-06-24</date>
+					<date type="A">1997-12-17</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Local Pulsars: A Note on the Birth-Velocity Distribution</title>
+				<feature></feature>
+				<page>0019-0033</page>
+				<abstract />
+				<keywords>Methods: statistical;stars: neutron, kinematics;pulsars: general.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Blaauw">A. Blaauw</name>
+						<affiliation>Department of Astronomy, Kapteyn Institute, P.O. Box 800, 9700 AV Groningen, The Netherlands</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Ramachandran">R. Ramachandran</name>
+						<affiliation>Astronomical Institute “Anton Pannekoek”, Kruislaan 403, 1098 SJ Amsterdam, The Netherlands</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1997-12-26</date>
+					<date type="A">1998-06-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A Low Frequency Radio Telescope at Mauritius for a Southern Sky Survey</title>
+				<feature></feature>
+				<page>0035-0053</page>
+				<abstract />
+				<keywords>Radio telescope;low frequency;imaging;southern sky;Fourier Synthesis.</keywords>
+				<authors>
+					<author>
+						<name first="K." last="Golap">K. Golap</name>
+						<affiliation>Departments of Physics, University of Mauritius, Reduit, Mauritius.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="N. Udaya" last="Shankar">N. Udaya Shankar</name>
+						<affiliation>Raman Research Institute, Sadashivanagar, Bangalore 560 080, India.</affiliation>
+						<affiliation>Departments of Physics, University of Mauritius, Reduit, Mauritius.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S." last="Sachdev">S. Sachdev</name>
+						<affiliation>Raman Research Institute, Sadashivanagar, Bangalore 560 080, India.</affiliation>
+						<affiliation>Departments of Physics, University of Mauritius, Reduit, Mauritius.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Dodson">R. Dodson</name>
+						<affiliation>Raman Research Institute, Sadashivanagar, Bangalore 560 080, India.</affiliation>
+						<affiliation>Physics Department, University of Durham, Durham, U.K.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ch. V." last="Sastry">Ch. V. Sastry</name>
+						<affiliation>Indian Institute of Astrophysics, Koraimangala, Bangalore 560 034, India</affiliation>
+						<affiliation>Departments of Physics, University of Mauritius, Reduit, Mauritius.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1998-05-18</date>
+					<date type="A">1998-08-03</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Low Frequency Quasi-Periodic Oscillations in the Hard X-ray Emission from Cygnus X-1</title>
+				<feature></feature>
+				<page>0055-0061</page>
+				<abstract />
+				<keywords>X-rays: stars;stars: individual Cygnus Xl.</keywords>
+				<authors>
+					<author>
+						<name first="B." last="Paul">B. Paul</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>bpaul@tifr.res.in</email>
+					</author>
+					<author>
+						<name first="P. C." last="Agrawal">P. C. Agrawal</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>pagrawal@tifr.res.in</email>
+					</author>
+					<author>
+						<name first="A. R." last="Rao">A. R. Rao</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>arrao@tifr.res.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1998-06-05</date>
+					<date type="A">1998-06-18</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03-04" month="" year="1998" info="">
+			<entry hassup="0">
+				<title>Vijay Κ. Kapahi</title>
+				<feature></feature>
+				<page>0063a</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Govind" last="Swarup">Govind Swarup</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Redshift Dependence of Spectral Index in Powerful Radio Galaxies</title>
+				<feature></feature>
+				<page>0063-0077</page>
+				<abstract />
+				<keywords>Galaxies: radio spectra, high redshift radio;synchrotron electron acceleration.</keywords>
+				<authors>
+					<author>
+						<name first="Ramana Μ." last="Athreya">Ramana Μ. Athreya</name>
+						<affiliation>National Centre for Radio Astrophysics (TIFR), P.O. Bag 3, Pune University Campus, Pune 411 007, India.</affiliation>
+						<email>ramana@gmrt.ernet.in</email>
+						<affiliation> Presently at the l’lnstitut d’ Astrophysique de Paris, 98 bis Bd Arago, 75014 Paris</affiliation>
+						<email>athreya@iap.fr</email>
+					</author>
+					<author>
+						<name first="Vijay Κ." last="Kapahi">Vijay Κ. Kapahi</name>
+						<affiliation>National Centre for Radio Astrophysics (TIFR), P.O. Bag 3, Pune University Campus, Pune 411 007, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1997-04-30</date>
+					<date type="A">1999-02-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Molecular Gas Associated with the IRAS-Vela Shell</title>
+				<feature></feature>
+				<page>0079-0096</page>
+				<abstract />
+				<keywords>ISM: structure, clouds.</keywords>
+				<authors>
+					<author>
+						<name first="Jayadev" last="Rajagopal">Jayadev Rajagopal</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India</affiliation>
+						<email>jaydev@rri.ernet.in</email>
+					</author>
+					<author>
+						<name first="G." last="Srinivasan">G. Srinivasan</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India</affiliation>
+						<email>srini@rri.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1998-06-29</date>
+					<date type="A">1998-09-28</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Interstellar Clouds of Adams and Blaauw Revisited: An HI Absorption Study – I</title> 
+				<feature></feature>
+				<page>0097-0116</page>
+				<abstract />
+				<keywords>ISM: clouds, structure;radio lines: ISM.</keywords>
+				<authors>
+					<author>
+						<name first="Jayadev" last="Rajagopal">Jayadev Rajagopal</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India</affiliation>
+						<email>jaydev@rri.ernet.in</email>
+					</author>
+					<author>
+						<name first="G." last="Srinivasan">G. Srinivasan</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India</affiliation>
+						<email>srini@rri.ernet.in</email>
+					</author>
+					<author>
+						<name first="Κ. S." last="Dwarakanath">Κ. S. Dwarakanath</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India</affiliation>
+						<email>dwaraka@rri.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1998-08-04</date>
+					<date type="A">1998-11-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>The Interstellar Clouds of Adams and Blaauw Revisited: An HI Absorption Study – II</title>
+				<feature></feature>
+				<page>0117-0131</page>
+				<abstract />
+				<keywords>ISM: clouds, structure, kinematics and dynamics.</keywords>
+				<authors>
+					<author>
+						<name first="Jayadev" last="Rajagopal">Jayadev Rajagopal</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India.</affiliation>
+						<email>jaydev@rri.ernet.in</email>
+					</author>
+					<author>
+						<name first="G." last="Srinivasan">G. Srinivasan</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India.</affiliation>
+						<email>srini@rri.ernet.in</email>
+					</author>
+					<author>
+						<name first="Κ. S." last="Dwarakanath">Κ. S. Dwarakanath</name>
+						<affiliation>Raman Research Institute, Bangalore 560 080, India.</affiliation>
+						<email>dwaraka@rri.ernet.in</email>
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1998-08-04</date>
+					<date type="A">1998-11-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Quantum Fluctuations in Radiation Dominated Anisotropic Cosmology</title>
+				<feature></feature>
+				<page>0133-0139</page>
+				<abstract />
+				<keywords>Quantum cosmology;quantum fluctuations;spacetime singularity</keywords>
+				<authors>
+					<author>
+						<name first="Thant Zin" last="Naing">Thant Zin Naing</name>
+						<affiliation>Inter-University Centre for Astronomy and Astrophysics, Post Bag 4 , Pune 411 007, India</affiliation>
+						<affiliation>Permanent Address: Physics Department, Yangon University, Myanmar. </affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. V." last="Narlikar">J. V. Narlikar</name>
+						<affiliation>Inter-University Centre for Astronomy and Astrophysics, Post Bag 4 , Pune 411 007, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1998-12-08</date>
+					<date type="A">1999-02-20</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Nonconformal Fluctuations in Radiation Dominated Anisotropic Cosmology</title>
+				<feature></feature>
+				<page>0141-0146</page>
+				<abstract />
+				<keywords>Quantum Cosmology;Anisotropic universes.</keywords>
+				<authors>
+					<author>
+						<name first="Thant Zin" last="Naing">Thant Zin Naing</name>
+						<affiliation>Inter-University Centre for Astronomy and Astrophysics, Post Bag 4, Pune 411 007, India.</affiliation>
+						<affiliation>Permanent address: Physics Department, Yangon University, Myanmar.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. V." last="Narlikar">J. V. Narlikar</name>
+						<affiliation>Inter-University Centre for Astronomy and Astrophysics, Post Bag 4, Pune 411 007, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-02-03</date>
+					<date type="A">1999-03-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature></feature>
+				<page>0147-0147</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0149-0149</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="20">
+		<issue inum="01-02" month="" year="1999" info="">
+			<entry hassup="0">
+				<title>Understanding the Spectral Energy Distributions of the Galactic Star Forming Regions IRAS 18314-0720, 18355-0532 and 18316-0602</title>
+				<feature></feature>
+				<page>0001-0022</page>
+				<abstract />
+				<keywords>Infrared SED - HII regions - radiative transfer - IRAS 18314-0720 - IRAS 18355-0532 - IRAS 18316-0602.</keywords>
+				<authors>
+					<author>
+						<name first="Bhaswati" last="Mookerjea">Bhaswati Mookerjea</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Mumbai (Bombay) 400 005, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. K." last="Ghosh">S. K. Ghosh</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Mumbai (Bombay) 400 005, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1998-08-05</date>
+					<date type="A">1999-06-17</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Infrared Emission from Interstellar Dust Cloud with Two Embedded Sources: IRAS 19181 + 1349</title>
+				<feature></feature>
+				<page>0023-0035</page>
+				<abstract />
+				<keywords>Interstellar clouds—infrared SED—IRAS 19181 + 1349.</keywords>
+				<authors>
+					<author>
+						<name first="A. D." last="Karnik">A. D. Karnik</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Mumbai (Bombay) 400 005, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. K." last="Ghosh">S. K. Ghosh</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Mumbai (Bombay) 400 005, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-06-18</date>
+					<date type="A">1999-06-30</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Determination of Linear Polarization and Faraday Rotation of Pulsar Signals from Spectral Intensity Modulation </title>
+				<feature></feature>
+				<page>0037-0050</page>
+				<abstract />
+				<keywords>Determination of Linear Polarization and Faraday Rotation of Pulsar Signals from Spectral Intensity Modulation</keywords>
+				<authors>
+					<author>
+						<name first="P. S." last="Ramkumar">P. S. Ramkumar</name>
+						<affiliation>Raman Research Institute, C. V. Raman Avenue, Bangalore 560 080, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. A." last="Deshpande">A. A. Deshpande</name>
+						<affiliation>Raman Research Institute, C. V. Raman Avenue, Bangalore 560 080, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-03-19</date>
+					<date type="A">1999-06-24</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Density and Temperature Diagnostics of Solar Emission Lines from NeV/MgV and SiVII/MgVII Ions</title>
+				<feature></feature>
+				<page>0051-0065</page>
+				<abstract />
+				<keywords>Solar atmosphere;EUV diagnostics;emission lines;spectroscopic diagnostics.</keywords>
+				<authors>
+					<author>
+						<name first="Anita" last="Mohan">Anita Mohan</name>
+						<affiliation>Department of Applied Physics, Institute of Technology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="B. N." last="Dwivedi">B. N. Dwivedi</name>
+						<affiliation>Department of Applied Physics, Institute of Technology, Banaras Hindu University, Varanasi 221 005, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. K." last="Raju">P. K. Raju</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560 034, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1998-06-05</date>
+					<date type="A">1999-06-02</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Cosmological Models with Shear and Rotation</title>
+				<feature></feature>
+				<page>0067-0077</page>
+				<abstract />
+				<keywords>Cosmological models;singularity;rotation;centrifugal force;shear.</keywords>
+				<authors>
+					<author>
+						<name first="Shwetabh" last="Singh">Shwetabh Singh</name>
+						<affiliation>Physics Department, Indian Institute of Science, Bangalore 560 012, India.</affiliation>
+						<affiliation>Present address: Physics and Astronomy Department, University of Pennsylvania, Philadelphia, PA-19104, U.S.A.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1998-10-13</date>
+					<date type="A">1999-08-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Formation of Giant Molecular Clouds by Aggregation in a Galactic Disc with Rigid Rotation</title>
+				<feature></feature>
+				<page>0079-0088</page>
+				<abstract />
+				<keywords>Aggregation of clouds;rigid rotation.</keywords>
+				<authors>
+					<author>
+						<name first="Tong-jie" last="Zhang">Tong-jie Zhang</name>
+						<affiliation>Shanghai Observatory, Chinese Academy of Sciences, Shanghai, 200 030, China</affiliation>
+						<email>tjzhang@center.shao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Guo-xuan" last="Song">Guo-xuan Song</name>
+						<affiliation>National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100 012, China</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1995-09-20</date>
+					<date type="A">1999-06-10</date>
+				</dates>
+			</entry>
+		</issue>
+		<issue inum="03-04" month="" year="1999" info="Special issue on 'The Physics of Black holes' ">
+			<entry hassup="0">
+				<title>Preface</title>
+				<feature></feature>
+				<page>0089-0089</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="J." last="Pasupathy">J. Pasupathy</name>
+						<affiliation>(Guest Editor) Centre for Theoretical Studies, Indian Institute of Science, Bangalore.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>New Light on the Einstein-Hilbert Priority Question</title>
+				<feature></feature>
+				<page>0091-0101</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="John" last="Stachel">John Stachel</name>
+						<affiliation>Department of Physics and Center for Einstein Studies, Boston University, 590 Commonwealth Avenue, Boston, Massachusetts 02215 USA.</affiliation>
+						<email>stachel@buphyc.bu.edu</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Black Holes and Rotation</title>
+				<feature></feature>
+				<page>0103-0120</page>
+				<abstract />
+				<keywords>Black holes;rotation;inertial forces;gyroscopic precession;gravi-electromagnetism</keywords>
+				<authors>
+					<author>
+						<name first="C. V." last="Vishveshwara">C. V. Vishveshwara</name>
+						<affiliation>Indian Institute of Astrophysics, Koramangala, Bangalore 560034, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Plenty of Nothing: Black Hole Entropy in Induced Gravity</title>
+				<feature></feature>
+				<page>0121-0129</page>
+				<abstract />
+				<keywords>Black hole;gravity;entropy.</keywords>
+				<authors>
+					<author>
+						<name first="V. P." last="Frolov">V. P. Frolov</name>
+						<affiliation>Theoretical Physics Institute, Department of Physics, University of Alberta, Edmonton, Canada T6G 2J1 </affiliation>
+						<email>frolov@phys.ualberta.ca</email>
+					</author>
+					<author>
+						<name first="D. V." last="Fursaev">D. V. Fursaev</name>
+						<affiliation>Theoretical Physics Institute, Department of Physics, University of Alberta, Edmonton, Canada T6G 2J1 and Joint Institute for Nuclear Research, Bogoliubov Laboratory of Theoretical Physics, 141 980 Dubna, Russia</affiliation>
+						<email>fursaev@cv.jinr.dubna.su</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Hawking Radiation in String Theory</title>
+				<feature></feature>
+				<page>0131-0148</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Sumit R." last="Das">Sumit R. Das</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Bombay 400 005, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>On M-Theory</title>
+				<feature></feature>
+				<page>0149-0164</page>
+				<abstract />
+				<keywords>Supergravity;hidden symmetries;superstrings.</keywords>
+				<authors>
+					<author>
+						<name first="Hermann" last="Nicolai">Hermann Nicolai</name>
+						<affiliation>Max-Planck-Institut, fiir Gravitationsphysik, Albert-Einstein-Institut, Am Mühlenberg 1, D-14476 Golm, Germany</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Observational Evidence for Massive Black Holes in the Centers of Active Galaxies</title>
+				<feature></feature>
+				<page>0165-0185</page>
+				<abstract />
+				<keywords>Masers;black holes;accretion disks;very long baselines interferometry.</keywords>
+				<authors>
+					<author>
+						<name first="J. Μ." last="Moran">J. Μ. Moran</name>
+						<affiliation>Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge Mass 02138 USA</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="L. J." last="Greenhill">L. J. Greenhill</name>
+						<affiliation>Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge Mass 02138 USA</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. R." last="Herrnstein">J. R. Herrnstein</name>
+						<affiliation>National Radio Astronomy Observatory</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Massive Black Hole at the Galactic Center</title>
+				<feature></feature>
+				<page>0187-0196</page>
+				<abstract />
+				<keywords>Galactic center;massive black holes;SgrA</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Eckart">A. Eckart</name>
+						<affiliation>Max-Planck Institut fur extraterrestrische Physik, D 85740 Garching, Postfach 1603, Germany</affiliation>
+						<email>eckart@mpe.mpg.de</email>
+					</author>
+					<author>
+						<name first="R." last="Genzel">R. Genzel</name>
+						<affiliation>Max-Planck Institut fur extraterrestrische Physik, D 85740 Garching, Postfach 1603, Germany</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Observational Evidence for Stellar Mass Black Holes</title>
+				<feature></feature>
+				<page>0197-0210</page>
+				<abstract />
+				<keywords>X-ray sources;black holes.</keywords>
+				<authors>
+					<author>
+						<name first="Tariq" last="Shahbaz">Tariq Shahbaz</name>
+						<affiliation>University of Oxford, Department of Astrophysics, Nuclear Physics Building, Keble Road, Oxford, 0X1 3RH, England.</affiliation>
+						<email>tsh@astro.ox.ac.uk</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Gravitational Waves: The Future of Black Hole Physics</title>
+				<feature></feature>
+				<page>0211-0220</page>
+				<abstract />
+				<keywords>Black holes;gravitational waves;testing general relativity.</keywords>
+				<authors>
+					<author>
+						<name first="Β. S." last="Sathyaprakash">Β. S. Sathyaprakash</name>
+						<affiliation>Cardiff University, 5, The Parade, Cardiff, CF2 3YB, U.K.</affiliation>
+						<email>B.Sathyaprakash@astro.cf.ac.uk</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Gravitational Collapse, Black Holes and Naked Singularities</title>
+				<feature></feature>
+				<page>0221-0232</page>
+				<abstract />
+				<keywords>Cosmic censorship;black holes;naked singularities.</keywords>
+				<authors>
+					<author>
+						<name first="Τ. P." last="Singh">Τ. P. Singh</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email>tpsingh@tifr.res.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Question of Cosmic Censorship</title>
+				<feature></feature>
+				<page>0233-0248</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Roger" last="Penrose">Roger Penrose</name>
+						<affiliation>Department of Mathematics, University of Oxford, 24-29, St. Giles, Oxford 0X1 3BD, UK</affiliation>
+						<email>rouse@maths.ox.ac.uk</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>New Mathematical Approaches to Classical Censorship Problems</title>
+				<feature></feature>
+				<page>0249-0257</page>
+				<abstract />
+				<keywords>Singularities;censorship;black holes.</keywords>
+				<authors>
+					<author>
+						<name first="C. J. S." last="Clarke">C. J. S. Clarke</name>
+						<affiliation>Faculty of Mathematical Studies, University of Southampton, Southampton, SO17 IBJ, UK</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Some Aspects of Four-Dimensional Black Hole Solutions in Gauss-Bonnet Extended String Gravity</title>
+				<feature></feature>
+				<page>0259-0268</page>
+				<abstract />
+				<keywords>Black holes;string theory;higher order curvature corrections.</keywords>
+				<authors>
+					<author>
+						<name first="S. O." last="Alexeyev">S. O. Alexeyev</name>
+						<affiliation>= 20 Sternberg Astronomical Institute, Moscow State University Universitetskii Prospect, 13, Moscow 119899, Russia</affiliation>
+						<email>alexeyev@grg2.phys.msu.su</email>
+					</author>
+					<author>
+						<name first="M. V." last="Sazhin">M. V. Sazhin</name>
+						<affiliation>= 20 Sternberg Astronomical Institute, Moscow State University Universitetskii Prospect, 13, Moscow 119899, Russia</affiliation>
+						<email>sazhin@sai.msu.su</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Black Hole Dynamics: A Survey of Black Hole Physics from the Point of View of Perturbation Theory</title>
+				<feature></feature>
+				<page>0269-0280</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Nils" last="Andersson">Nils Andersson</name>
+						<affiliation>Department of Mathematics, University of Southampton, Southampton SO171 IBJ, UK</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Analytic Black Hole Perturbation Approach</title>
+				<feature></feature>
+				<page>0281-0289</page>
+				<abstract />
+				<keywords>Gravitational radiation;black hole;post-Newtonian expansion.</keywords>
+				<authors>
+					<author>
+						<name first="Misao" last="Sasaki">Misao Sasaki</name>
+						<affiliation>Department of Earth and Space Science, Osaka University, Toyonaka 560 0043, Japan</affiliation>
+						<email>misao@vega.ess.sci.osaka-u.ac.jp</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Author Index </title>
+				<feature></feature>
+				<page>0291-0291</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature></feature>
+				<page>0293-0294</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="21">
+		<issue inum="01-02" month="June" year="2000" info="">
+			<entry hassup="0">
+				<title>A Measurement ofthe Cosmic Microwave Background Temperature at 1280MHz</title>
+				<feature></feature>
+				<page>0001-0017</page>
+				<abstract />
+				<keywords>Cosmic microwave background;cosmology: observations.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Raghunathan">A. Raghunathan</name>
+						<affiliation>Raman Research Institute, C. V. Raman Avenue, Bangalore - 560080, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Ravi" last="Subrahmanyan">Ravi Subrahmanyan</name>
+						<affiliation>Raman Research Institute, C. V. Raman Avenue, Bangalore - 560080, India</affiliation>
+						<affiliation>Present address: Australia Telescope National Facility, CSIRO, Locked bag 194, Narrabri, NSW, Australia.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-04-18</date>
+					<date type="A">2000-05-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Nature of the Background Ultraviolet Radiation Field at High Redshifts</title>
+				<feature></feature>
+				<page>0019-0027</page>
+				<abstract />
+				<keywords>Quasars: absorption lines;diffuse radiation.</keywords>
+				<authors>
+					<author>
+						<name first="Archana" last="Samantaray">Archana Samantaray</name>
+						<affiliation>Physics Department, Utkal University, Bhubaneswar, 751 004, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Pushpa" last="Khare">Pushpa Khare</name>
+						<affiliation>Physics Department, Utkal University, Bhubaneswar, 751 004, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-09-20</date>
+					<date type="A">2000-02-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>X-ray Observation of XTE J2012+381 during the 1998 Outburst</title>
+				<feature></feature>
+				<page>0029-0038</page>
+				<abstract />
+				<keywords>Accretion, accretion disks;black hole physics;X-rays:stars;stars: individual;XTE J2012+381.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Naik">S. Naik</name>
+						<affiliation>Tata Institute ofFundamentalResearch, Homi BhabhaRoad, Mumbai, 400005, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. C." last="Agrawal">P. C. Agrawal</name>
+						<affiliation>Tata Institute ofFundamentalResearch, Homi BhabhaRoad, Mumbai, 400005, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="B." last="Paul">B. Paul</name>
+						<affiliation>Tata Institute ofFundamentalResearch, Homi BhabhaRoad, Mumbai, 400005, India.</affiliation>
+						<affiliation>PresentAddress: Institute ofSpace andAstronautical Science, 3-1-1 Yoshinodai, Sagamihara, Kanagawa229-8510, Japan.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. R." last="Rao">A. R. Rao</name>
+						<affiliation>Tata Institute ofFundamentalResearch, Homi BhabhaRoad, Mumbai, 400005, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S." last="Seetha">S. Seetha</name>
+						<affiliation>ISRO Satellite Center, AirportRoad, Vimanapura P.O., Bangalore 560017, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Κ." last="Kasturirangan">Κ. Kasturirangan</name>
+						<affiliation>ISRO Satellite Center, AirportRoad, Vimanapura P.O., Bangalore 560017, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-10-22</date>
+					<date type="A">2000-02-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>X-ray Measurements of Black Hole X-ray Binary Source GRS 1915+105 and the Evolution of Hard X-ray Spectrum</title>
+				<feature></feature>
+				<page>0039-0052</page>
+				<abstract />
+				<keywords>Accretion, accretion disks;X-rays: stars;Black hole candidates, binary sources: individual;GRS 1915+105.</keywords>
+				<authors>
+					<author>
+						<name first="R. K." last="Manchanda">R. K. Manchanda</name>
+						<affiliation>Tata Institute of Fundamental Research, Mumbai 400 005, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-12-28</date>
+					<date type="A">2000-02-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Scale Length of the Galactic Thin Disk</title>
+				<feature></feature>
+				<page>0053-0059</page>
+				<abstract />
+				<keywords>Galaxy: stellar content;Galaxy: structure.</keywords>
+				<authors>
+					<author>
+						<name first="D. Κ." last="Ojha">D. Κ. Ojha</name>
+						<affiliation>Tata Institute of Fundamental Research, Dr. Homi Bhabha Road, Mumbai 400 005, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1999-09-14</date>
+					<date type="A">2000-02-09</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>A New Scheme of Radiation Transfer in HII Regions including Transient Heating of Grains</title>
+				<feature></feature>
+				<page>0061-0076</page>
+				<abstract />
+				<keywords>HII regions;radiative transfer;PAH;VSG.</keywords>
+				<authors>
+					<author>
+						<name first="S. K." last="Ghosh">S. K. Ghosh</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. P." last="Verma">R. P. Verma</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-04-15</date>
+					<date type="A">2000-05-10</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Stellar Sources in the ISOGAL Inner Galactic Bulge Field (𝑙 =0<sup>0</sup>, 𝑏 = – 1<sup>0</sup>)</title>
+				<feature></feature>
+				<page>0077-0090</page>
+				<abstract />
+				<keywords>Stars: AGB and post-AGB;stars: circumstellar matter;stars: mass - loss - dust - infrared: stars;Galaxy: bulge.</keywords>
+				<authors>
+					<author>
+						<name first="D. Κ." last="Ojha">D. Κ. Ojha</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A." last="Omont">A. Omont</name>
+						<affiliation>Institut d'Astrophysique de Paris, CNRS, 98 bis, Bd Arago, F-75014, Paris, France.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S." last="Ganesh">S. Ganesh</name>
+						<affiliation>Physical Research Laboratory, Navrangpura, Ahmedabad 380 009, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Simon">G. Simon</name>
+						<affiliation>DASGAL, CNRS UMR 8633, Observatoire de Paris, France.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M." last="Schultheis">Μ. Schultheis</name>
+						<affiliation>Institut d'Astrophysique de Paris, CNRS, 98 bis, Bd Arago, F-75014, Paris, France.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">2000-03-27</date>
+					<date type="A">2000-05-11</date>
+				</dates>
+			</entry>
+			<entry hassup="0">
+				<title>Porous and Fluffy Grains in the Regions of Anomalous Extinction</title>
+				<feature></feature>
+				<page>0091-0099</page>
+				<abstract />
+				<keywords>Interstellar dust;extinction;porous grains;anomalous extinction.</keywords>
+				<authors>
+					<author>
+						<name first="D. B." last="Vaidya">D. B. Vaidya</name>
+						<affiliation>Gujarat College, Ahmedabad 380 006, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="B. G." last="Anandarao">B. G. Anandarao</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. N." last="Desai">J. N. Desai</name>
+						<affiliation>Physical Research Laboratory, Ahmedabad 380 009, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Gupta">R. Gupta</name>
+						<affiliation>InterUniversity Centre for Astronomy &amp; Astrophysics, Pune 411007, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates>
+					<date type="M">1997-12-24</date>
+					<date type="A">2000-01-29</date>
+				</dates>
+			</entry>
+		</issue>	
+		<issue inum="03-04" month="09-12" year="2000" info="Special issue on 'Cyclical Evolution of Solar Magnetic Fields: Advances in Theory and Observations' ">
+			<entry hassup="0">
+				<title>The Kodaikanal Observatory–A Historical Account</title>
+				<feature></feature>
+				<page>0103-0106</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Μ. Κ. V." last="Bappu">Μ. Κ. V. Bappu</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Foreword</title>
+				<feature></feature>
+				<page>0111-0111</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="P." last="Venkatakrishnan">P. Venkatakrishnan</name>
+						<affiliation>Guest Editors</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Oddbjorn" last="Engvold">Oddbjorn Engvold</name>
+						<affiliation>Guest Editors</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Arnab Rai" last="Choudhuri">Arnab Rai Choudhuri</name>
+						<affiliation>Guest Editors</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Active Region Magnetic Fields</title>
+				<feature>Session I – Keynote Address</feature>
+				<page>0119-0125</page>
+				<abstract />
+				<keywords>Active regions;sunspot groups;group tilt angles.</keywords>
+				<authors>
+					<author>
+						<name first="Robert F." last="Howard">Robert F. Howard</name>
+						<affiliation>National Solar Observatory, Tucson, Arizona 85726, U.S.A.</affiliation>
+						<email>howard@noao.edu</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>New Initiatives for Synoptic Observations</title>
+				<feature>Session II – Synoptic Observations</feature>
+				<page>0127-0134</page>
+				<abstract />
+				<keywords>GONG;ISOON;SXI;SOLIS</keywords>
+				<authors>
+					<author>
+						<name first="C. U." last="Keller">C. U. Keller</name>
+						<affiliation>National Solar Observatory, 950 N. Cherry Ave., Tucson, AZ 85719, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>New High Resolution Observations of the Solar Diameter from Space and Ground with the Microsatellite Program PICARD</title>
+				<feature>Session II – Synoptic Observations</feature>
+				<page>0135-0140</page>
+				<abstract />
+				<keywords>Solar diameter;solar shape;long-period oscillations;g-modes;solar influence on climate.</keywords>
+				<authors>
+					<author>
+						<name first="Luc" last="Dame">Luc Dame</name>
+						<affiliation>Service d'Aeronomie du CNRS, 91371 Verrieres-le-Buisson, France</affiliation>
+						<email>luc.dame@aerov.jussieu.fr</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Introduction to the Solar Space Telescope</title>
+				<feature>Session II – Synoptic Observations</feature>
+				<page>0141-0147</page>
+				<abstract />
+				<keywords>Space telescopes.</keywords>
+				<authors>
+					<author>
+						<name first="G." last="Ai">G. Ai</name>
+						<affiliation>Beijing Astronomical Observatory / National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China.</affiliation>
+						<email>aigx@sun10.bao.ac.cn</email>
+					</author>
+					<author>
+						<name first="S." last="Jin">S. Jin</name>
+						<affiliation>Beijing Astronomical Observatory / National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S." last="Wang">S. Wang</name>
+						<affiliation>Beijing Astronomical Observatory / National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Β." last="Ye">Β. Ye</name>
+						<affiliation>Beijing Astronomical Observatory / National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S." last="Yang">S. Yang</name>
+						<affiliation>Beijing Astronomical Observatory / National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Results from Kodaikanal Synoptic Observations</title>
+				<feature>Session II – Synoptic Observations</feature>
+				<page>0149-0153</page>
+				<abstract />
+				<keywords>Synoptic observations;tilt angles of sunspot groups;global solar cycle.</keywords>
+				<authors>
+					<author>
+						<name first="Κ. R." last="Sivaraman">Κ. R. Sivaraman</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560 034</affiliation>
+						<email>siva@iiap.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Sunspot Groups as Tracers of Sub-Surface Processes</title>
+				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
+				<page>0155-0160</page>
+				<abstract />
+				<keywords>Sunspot group;solar cycle;solar rotation.</keywords>
+				<authors>
+					<author>
+						<name first="Μ. Η." last="Gokhale">Μ. Η. Gokhale</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560 034, India.</affiliation>
+						<email>gokhale@iiap.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Large-Scale Magnetic Field and Sunspot Cycles</title>
+				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
+				<page>0161-0162</page>
+				<abstract />
+				<keywords>Sun: magnetic field;sunspots;solar cycle.</keywords>
+				<authors>
+					<author>
+						<name first="V. I." last="Makarov">V. I. Makarov</name>
+						<affiliation>Kislovodsk Solar Station ofthe Pulkovo Observatory, Kislovodsk357700, P.O. Box145, Russia.</affiliation>
+						<email>makarov@gao.spb.ru</email>
+					</author>
+					<author>
+						<name first="A. G." last="Tlatov">A. G. Tlatov</name>
+						<affiliation>Kislovodsk Solar Station ofthe Pulkovo Observatory, Kislovodsk357700, P.O. Box145, Russia.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Cyclic Evolution of Sunspots: Gleaning New Results from Old Data</title>
+				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
+				<page>0163-0165</page>
+				<abstract />
+				<keywords>Sunspots;solar dynamo.</keywords>
+				<authors>
+					<author>
+						<name first="S. Κ." last="Solanki">S. Κ. Solanki</name>
+						<affiliation>Max-Planck-Institut fur Aeronomie, D-37191 Katlenburg-Lindau, Germany.</affiliation>
+						<email>solanki@linmpi.mpg.de</email>
+					</author>
+					<author>
+						<name first="M." last="Fligge">Μ. Fligge</name>
+						<affiliation>Institute of Astronomy, ΕΤΗ Zentrum, 8092 Zurich, Switzerland.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Pulkkinen">P. Pulkkinen</name>
+						<affiliation>Institute of Astronomy, University of Helsinki, Finland.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Hoyng">P. Hoyng</name>
+						<affiliation>SRON, Utrecht, The Netherlands.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>22-Year Periodicity in the Solar Differential Rotation</title>
+				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
+				<page>0167-0170</page>
+				<abstract />
+				<keywords>Sunspot group;solar cycle;solar rotation.</keywords>
+				<authors>
+					<author>
+						<name first="J." last="Javaraiah">J. Javaraiah</name>
+						<affiliation>Indian Institute ofAstrophysics, Bangalore 560 034,. India.</affiliation>
+						<email>jj@iiap.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Is a Sunspot in Static or Dynamic Equilibrium?</title>
+				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
+				<page>0171-0172</page>
+				<abstract />
+				<keywords>Sun;sunspot;structure.</keywords>
+				<authors>
+					<author>
+						<name first="P." last="Venkatakrishnan">P. Venkatakrishnan</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, Post Box No. 198, Badi Road, Udaipur 313 001, India.</affiliation>
+						<email>pvk@plume.uso.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Periodic Variation of the North-South Asymmetry of Solar Activity Phenomena</title>
+				<feature>Session III – Sunspots &amp; Solar Cycle</feature>
+				<page>0173-0176</page>
+				<abstract />
+				<keywords>Sunspots;solar activity;solar cycles.</keywords>
+				<authors>
+					<author>
+						<name first="V. Κ." last="Verma">V. Κ. Verma</name>
+						<affiliation>U. P. State Observatory, Manora Peak, Naini Tal, India 263129.</affiliation>
+						<email>verma@upso.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Solar Filaments as Tracers of Subsurface Processes</title>
+				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
+				<page>0177-0183</page>
+				<abstract />
+				<keywords>Solar filaments;solar dynamo;magnetic fields.</keywords>
+				<authors>
+					<author>
+						<name first="D. M." last="Rust">D. M. Rust</name>
+						<affiliation>Applied Physics Laboratoiy, Johns Hopkins University, 11100 Johns Hopkins Road, Laurel, MD 20723, USA.</affiliation>
+						<email>david.rust@jhuapl.edu</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Coronal Structures as Tracers of Sub-Surface Processes</title>
+				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
+				<page>0185-0192</page>
+				<abstract />
+				<keywords>Sun;solar corona;magnetic field;helicity.</keywords>
+				<authors>
+					<author>
+						<name first="Alexei A." last="PevtSOV">Alexei A. PevtSOV</name>
+						<affiliation>Montana State University, Bozeman, MT 59717, U.S.A.</affiliation>
+						<email>pevtsov@physics.montana.edu</email>
+					</author>
+					<author>
+						<name first="Richard C." last="Canfield">Richard C. Canfield</name>
+						<affiliation>Montana State University, Bozeman, MT 59717, U.S.A.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Polar Magnetic Field Reversals of the Sun in Maunder Minimum</title>
+				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
+				<page>0193-0196</page>
+				<abstract />
+				<keywords>Sun: cycle;magnetic field;maunder minimum.</keywords>
+				<authors>
+					<author>
+						<name first="V. I." last="Makarov">V. I. Makarov</name>
+						<affiliation>Kislovodsk Solar Station of the Pulkovo Observatory, •Kislovodsk 357700, P.O. Box 145, Russia.</affiliation>
+						<email>makarov@gao.spb.ru</email>
+					</author>
+					<author>
+						<name first="A. G." last="Tlatov">A. G. Tlatov</name>
+						<affiliation>Kislovodsk Solar Station of the Pulkovo Observatory, •Kislovodsk 357700, P.O. Box 145, Russia.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Periodic Variations in the Coronal Green Line Intensity and their Connection with the White-light Coronal Structures</title>
+				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
+				<page>0197-0200</page>
+				<abstract />
+				<keywords>Sun;solar corona;5 min variations;solar activity.</keywords>
+				<authors>
+					<author>
+						<name first="Milan" last="Minarovjech">Milan Minarovjech</name>
+						<affiliation>Astronomical Institute of the Slovak Academy of Sciences, 05960 Tatranska Lomnica, Slovak Republic.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Milan" last="Rybansky">Milan Rybansky</name>
+						<affiliation>Astronomical Institute of the Slovak Academy of Sciences, 05960 Tatranska Lomnica, Slovak Republic.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Vojtech" last="Rusin">Vojtech Rusin</name>
+						<affiliation>Astronomical Institute of the Slovak Academy of Sciences, 05960 Tatranska Lomnica, Slovak Republic.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Long-term Cyclic Variations of Prominences, Green and Red Coronae over Solar Cycles</title>
+				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
+				<page>0201-0204</page>
+				<abstract />
+				<keywords>Prominences;emission corona;cycle activity.</keywords>
+				<authors>
+					<author>
+						<name first="Vojtech" last="Rusin">Vojtech Rusin</name>
+						<affiliation>Astronomical institute, Slovak Academy of Sciences, 059 60 Tatranska Lomnica, Slovak Republic</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Milan" last="Minarovjech">Milan Minarovjech</name>
+						<affiliation>Astronomical institute, Slovak Academy of Sciences, 059 60 Tatranska Lomnica, Slovak Republic</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Milan" last="Rybansky">Milan Rybansky</name>
+						<affiliation>Astronomical institute, Slovak Academy of Sciences, 059 60 Tatranska Lomnica, Slovak Republic</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Large-scale Motion of Solar Filaments</title>
+				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
+				<page>0205-0208</page>
+				<abstract />
+				<keywords>Sun;filaments;horizontal motions.</keywords>
+				<authors>
+					<author>
+						<name first="Pavel" last="Ambrož">Pavel Ambrož</name>
+						<affiliation>Astronomical Institute ofthe Acad. Sci. ofthe Czech Republic, CZ-25165 Ondrejov, The Czech Republic.</affiliation>
+						<email>pambroz@asu.cas.cz</email>
+					</author>
+					<author>
+						<name first="Alfred" last="Schroll">Alfred Schroll</name>
+						<affiliation>Kanzelhöehe Solar Observatory of the University of Graz, A-9521 Treffen, Austria</affiliation>
+						<email>schroll@solobskh.ac.at</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Magnetic Sun from Different Views: A Comparison of the Mean and Background Magnetic Field Observations made in Different Observatories and in Different Spectral Lines</title>
+				<feature>Session IV – Filaments &amp; Coronal Structures</feature>
+				<page>0209-0212</page>
+				<abstract />
+				<keywords>Sun: magnetic fields;magnetographs.</keywords>
+				<authors>
+					<author>
+						<name first="M. L." last="Demidov">M. L. Demidov</name>
+						<affiliation>Institute ofSolar-Terrestrial Physics, Irkutsk, P.O.Box 4026, 664033,Russia.</affiliation>
+						<email>demid@iszf.irk.ru</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Vector Magnetic Fields, Sub;surface Stresses and Evolution of Magnetic Helicity</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0213-0220</page>
+				<abstract />
+				<keywords>Magnetic fields;currents;magnetic helicity.</keywords>
+				<authors>
+					<author>
+						<name first="Richard" last="Canfield">Richard Canfield</name>
+						<affiliation>Department of Physics, Montana State University, Bozeman, Montana 59717-3840.</affiliation>
+						<email>canfield@physics.montana.edu</email>
+					</author>
+					<author>
+						<name first="Alexei" last="Pevtsov">Alexei Pevtsov</name>
+						<affiliation>Department of Physics, Montana State University, Bozeman, Montana 59717-3840.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Cyclical Variability of Prominences, CMEs and Flares</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0221-0227</page>
+				<abstract />
+				<keywords>Sun: Activity;prominences;flares;CMEs.</keywords>
+				<authors>
+					<author>
+						<name first="J. L. Ballester" last="Ballester">J. L. Ballester</name>
+						<affiliation>Departament de Fisica, Universitat de les Illes Balears. E-07071 Palma de Mallorca, Espana.</affiliation>
+						<email>dfsjlb0@ps,uib.es</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Analysis of the 9th November 1990 flare</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0229-0232</page>
+				<abstract />
+				<keywords>H𝛼 flare;isophotal contour maps;flare kernels.</keywords>
+				<authors>
+					<author>
+						<name first="Anita" last="Joshi">Anita Joshi</name>
+						<affiliation>U. P. State Observatory, Manora Peak, Naini Tal 263129, India.</affiliation>
+						<email>anita@upso.emet.in</email>
+					</author>
+					<author>
+						<name first="Wahab" last="Uddin">Wahab Uddin</name>
+						<affiliation>U. P. State Observatory, Manora Peak, Naini Tal 263129, India.</affiliation>
+						<email>wahab@upso.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>A Rapidly Evolving Active Region NOAA 8032 observed on April 15th, 1997</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0233-0236</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="Shibu K." last="Mathew">Shibu K. Mathew</name>
+						<affiliation>Udaipur Solar Observatory, P. O. Box: 198, Udaipur 313 004, India.</affiliation>
+						<email>shibu@iiap.ernet.in</email>
+					</author>
+					<author>
+						<name first="Ashok" last="Ambastha">Ashok Ambastha</name>
+						<affiliation>Udaipur Solar Observatory, P. O. Box: 198, Udaipur 313 004, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Low Frequency Radio Emission from the 'Quiet' Sun</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0237-0240</page>
+				<abstract />
+				<keywords>Sun;corona;radio observations;streamers;scattering.</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Ramesh">R. Ramesh</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India</affiliation>
+						<email>ramesh@iiap.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Stokes Polarimetry at the Kodaikanal Tower Tunnel Telescope</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0241-0244</page>
+				<abstract />
+				<keywords>Solar polarimetry;charge shifting;vector magnetic field.</keywords>
+				<authors>
+					<author>
+						<name first="K." last="Sankarasubramanian">Κ. Sankarasubramanian</name>
+						<affiliation>Indian Institute ofAstrophysics, Bangalore 560034, India</affiliation>
+						<email>sankar@iiap.ernet.in</email>
+					</author>
+					<author>
+						<name first="G." last="Srinivasulu">G. Srinivasulu</name>
+						<affiliation>Indian Institute ofAstrophysics, Bangalore 560034, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. V." last="Ananth">A. V. Ananth</name>
+						<affiliation>Indian Institute ofAstrophysics, Bangalore 560034, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P." last="Venkatakrishnan">P. Venkatakrishnan</name>
+						<affiliation>Udaipur Solar Observatory, Udaipur 313004, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Twist of Magnetic Fields in Solar Active Regions</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0245-0247</page>
+				<abstract />
+				<keywords>Solar active regions;solar magnetic fields.</keywords>
+				<authors>
+					<author>
+						<name first="Hongqi" last="Zhang">Hongqi Zhang</name>
+						<affiliation>Astronomical Observatory, NationalAstronomical Observatories, ChineseAcademy of Sciences, Beijing 100 012, Chin.</affiliation>
+						<email>zhq@sunlO.bao.ac.cn</email>
+					</author>
+					<author>
+						<name first="Lirong" last="Tian">Lirong Tian</name>
+						<affiliation>Astronomical Observatory, NationalAstronomical Observatories, ChineseAcademy of Sciences, Beijing 100 012, Chin.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Shudong" last="Bao">Shudong Bao</name>
+						<affiliation>Astronomical Observatory, NationalAstronomical Observatories, ChineseAcademy of Sciences, Beijing 100 012, Chin.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation>Astronomical Observatory, NationalAstronomical Observatories, ChineseAcademy of Sciences, Beijing 100 012, Chin.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Photospheric Flow near the Flare Locations of Active Regions</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0249-0250</page>
+				<abstract />
+				<keywords>Active regions;magnetic field;velocity field;flare locations;shear.</keywords>
+				<authors>
+					<author>
+						<name first="Debi Prasad" last="Choudhary">Debi Prasad Choudhary</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, Post Box No. 198, Badi Road, Udaipur 313001, India</affiliation>
+						<email>debi@plume.uso.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Solar Energetic Particle Events at the Rise Phase of the 23rd Solar Activity Cycle Registered aboard the Spacecraft "INTERBALL-2"</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0251-0254</page>
+				<abstract />
+				<keywords>Solar energetic particles;coronal mass ejection;interplanetary shock;differential energy spectrum.</keywords>
+				<authors>
+					<author>
+						<name first="Vladislav" last="Timofeev">Vladislav Timofeev</name>
+						<affiliation>Institute of Cosmophysical Research and Aeronomy, 31 Lenin Ave., 677891 Yakutsk, Russia.</affiliation>
+						<email>v.e.timofeev@sci.yakutia.ru</email>
+					</author>
+					<author>
+						<name first="Sergey" last="Starodubtsev">Sergey Starodubtsev</name>
+						<affiliation>Institute of Cosmophysical Research and Aeronomy, 31 Lenin Ave., 677891 Yakutsk, Russia.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>An Operator Perturbation Method of Polarized Line Transfer V. Diagnosis of Solar Weak Magnetic Fields</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0255-0258</page>
+				<abstract />
+				<keywords>Polarization;magnetic fields, radiative transfer;stars: atmospheres;methods: numerical.</keywords>
+				<authors>
+					<author>
+						<name first="K. N." last="Nagendra">K. N. Nagendra</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<affiliation>Observatoire de la Cote d'Azur, (CNRS/UMR 6529),BP. 4229, F06304, Nice Cedex 4, France.</affiliation>
+						<email>knn@iiap.ernet.in</email>
+					</author>
+					<author>
+						<name first="H." last="Frisch">H. Frisch</name>
+						<affiliation>Observatoire de la Cote d'Azur, (CNRS/UMR 6529),BP. 4229, F06304, Nice Cedex 4, France.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M." last="Faurobert-Scholl">Μ. Faurobert-Scholl</name>
+						<affiliation>Observatoire de la Cote d'Azur, (CNRS/UMR 6529),BP. 4229, F06304, Nice Cedex 4, France.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="F." last="Paletou">F. Paletou</name>
+						<affiliation>Observatoire de la Cote d'Azur, (CNRS/UMR 6529),BP. 4229, F06304, Nice Cedex 4, France.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>On the Possibility of Radio Emission from Quasi-parallel and Quasi-perpendicular Propagation of Shocks</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page></page>
+				<abstract />
+				<keywords>Radio emission;shocks;type II bursts.</keywords>
+				<authors>
+					<author>
+						<name first="A." last="Shanmugaraju">A. Shanmugaraju</name>
+						<affiliation>School of Physics, Madurai Kamaraj University, Madurai-625021, India</affiliation>
+						<affiliation>Radio Astronomy Centre, TIFR, Ooty 623001, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S." last="Umapathy">S. Umapathy</name>
+						<affiliation>School of Physics, Madurai Kamaraj University, Madurai-625021, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Emergence of Twisted Magnetic Flux Related Sigmoidal Brightening</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0263-0264</page>
+				<abstract />
+				<keywords>Sun: Sigmoid;filament;sunspots.</keywords>
+				<authors>
+					<author>
+						<name first="K. Sundara" last="Raman">K. Sundara Raman</name>
+						<affiliation>Indian Institute of Astrophysics, Kodaikanal 624103, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. B." last="Ramesh">K. B. Ramesh</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Selvendran">R. Selvendran</name>
+						<affiliation>Indian Institute of Astrophysics, Kodaikanal 624103, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="P. S. M." last="Aleem">P. S. M. Aleem</name>
+						<affiliation>Indian Institute of Astrophysics, Kodaikanal 624103, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="K. M." last="Hiremath">K. M. Hiremath</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Tessellation of SoHO Magnetograms</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0265-0268</page>
+				<abstract />
+				<keywords>Sun: granulation;magnetogram.</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Srikant">R. Srikant</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India</affiliation>
+						<email>srik@iiap.ernet.in</email>
+					</author>
+					<author>
+						<name first="Jagdev" last="Singh">Jagdev Singh</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Parametric Study of Molecular Line Polarization in the Solar Atmosphere</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0269-0269</page>
+				<abstract />
+				<keywords>Molecular polarization;scattering;radiative transfer.</keywords>
+				<authors>
+					<author>
+						<name first="K. E." last="Rangarajan">K. E. Rangarajan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<email>rangaraj@iiap.ernet.in</email>
+					</author>
+					<author>
+						<name first="D. Mohan" last="Rao">D. Mohan Rao</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Relationship of Non-potentiality and Flaring: Intercomparison for an M-class Flare</title>
+				<feature>Session V – Vector Magnetic Fields, Prominences, CMEs &amp; Flares</feature>
+				<page>0271-0274</page>
+				<abstract />
+				<keywords>Magnetic shear-electrical current-flare.</keywords>
+				<authors>
+					<author>
+						<name first="Ashok" last="Ambastha">Ashok Ambastha</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, Udaipur-313 001, India.</affiliation>
+						<email>ashok@uso.ernet.in</email>
+					</author>
+					<author>
+						<name first="Shibu K." last="Mathew">Shibu K. Mathew</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, Udaipur-313 001, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Properties of Flux Tubes and the Relation with Solar Irradiance Variability</title>
+				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
+				<page>0275-0282</page>
+				<abstract />
+				<keywords>Irradiance;flux tube;sunspot;plage.</keywords>
+				<authors>
+					<author>
+						<name first="M." last="Fligge">Μ. Fligge</name>
+						<affiliation>Institute of Astronomy, ΕΤΗ Zentrum, 8092 Zurich, Switzerland.</affiliation>
+						<email>fligge@astro,phys.ethz.ch</email>
+					</author>
+					<author>
+						<name first="S. K." last="Solanki">S. K. Solanki</name>
+						<affiliation>Max-Planck-Institut fürAeronomie, D-37191 Katlenburg-Lindau, Germany</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Dynamical Processes in Flux Tubes and their Role in Chromospheric Heating</title>
+				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
+				<page>0283-0287</page>
+				<abstract />
+				<keywords>MHD;Sun: magnetic fields, oscillations.</keywords>
+				<authors>
+					<author>
+						<name first="S. S." last="Hasan">S. S. Hasan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<email>hasan@iiap.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Infrared Photometry of Solar Active Regions</title>
+				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
+				<page>0289-0292</page>
+				<abstract />
+				<keywords>Solar photosphere;faculae;pores.</keywords>
+				<authors>
+					<author>
+						<name first="Μ." last="Sobotka">Μ. Sobotka</name>
+						<affiliation>Institute de Astrof'isica de Canarias, E-38200LaLaguna, Tenerife, Spain.</affiliation>
+						<affiliation>Astronomical Institute, Academy of Sciences of the Czech Republic, CZ-25165 Ondrejov, The Czech Republic.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M." last="V'azquez">Μ. V'azquez</name>
+						<affiliation>Institute de Astrof'isica de Canarias, E-38200LaLaguna, Tenerife, Spain.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Μ. S'anchez" last="Cuberes">Μ. S'anchez Cuberes</name>
+						<affiliation>Institute de Astrof'isica de Canarias, E-38200LaLaguna, Tenerife, Spain.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J. A." last="Bonet">J. A. Bonet</name>
+						<affiliation>Institute de Astrof'isica de Canarias, E-38200LaLaguna, Tenerife, Spain.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A." last="Hanslmeier">A. Hanslmeier</name>
+						<affiliation>Institut für Geophysik, Astrophysik und Meteorologie, Universitätsplatz 5, A-8010 Graz, Austria.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>CaIIΚ Imaging to Understand UV Irradiance Variability</title>
+				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
+				<page>0293-0297</page>
+				<abstract />
+				<keywords>Chromosphere: CaII Κ Emission—UV Irradiance.</keywords>
+				<authors>
+					<author>
+						<name first="R." last="Kariyappa">R. Kariyappa</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<email>rkari@iiap.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Models of Flux Tubes from Constrained Relaxation</title>
+				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
+				<page>0299-0302</page>
+				<abstract />
+				<keywords>Hydromagnetics;Sun: atmosphere, magnetic fields.</keywords>
+				<authors>
+					<author>
+						<name first="Α." last="Mangalam">Α. Mangalam</name>
+						<affiliation>Indian Institute of Astrophysics, Koramangala, Bangalore 560 034, India.</affiliation>
+						<email>mangalam@iiap.ernet.in</email>
+					</author>
+					<author>
+						<name first="V." last="Krishan">V. Krishan</name>
+						<affiliation>Indian Institute of Astrophysics, Koramangala, Bangalore 560 034, India.</affiliation>
+						<email>vinod@iiap.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Hemispheric Sign Rule of Current Helicity during the Rising Phase of Cycle 23</title>
+				<feature>Session VI – Flux Tubes &amp; Irradiance Variability</feature>
+				<page>0303-0306</page>
+				<abstract />
+				<keywords>Sun: activity;magnetic fields;photosphere.</keywords>
+				<authors>
+					<author>
+						<name first="S. D." last="Bao">S. D. Bao</name>
+						<affiliation>Beijing Astronomical Observatory/National Astronomical Observatories, Chinese Academy ofSciences, Beijing 100 012, China.</affiliation>
+						<email>bshd@sunl0.bao.ac.cn</email>
+					</author>
+					<author>
+						<name first="G. X." last="Ai">G. X. Ai</name>
+						<affiliation>Beijing Astronomical Observatory/National Astronomical Observatories, Chinese Academy ofSciences, Beijing 100 012, China.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="H. Q." last="Zhang">H. Q. Zhang</name>
+						<affiliation>Beijing Astronomical Observatory/National Astronomical Observatories, Chinese Academy ofSciences, Beijing 100 012, China.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Magnetoconvection and the Solar Dynamo</title>
+				<feature>Session VII – Magnetoconvection &amp; Stellar Activity</feature>
+				<page>0307-0313</page>
+				<abstract />
+				<keywords>Magnetic fields;convection;dynamo;Sun.</keywords>
+				<authors>
+					<author>
+						<name first="Å." last="Nordlund">Å. Nordlund</name>
+						<affiliation>Astronomical Observatory &amp; Theoretical Astrophysics Center, Juliane Maries Vej 30, 2100 Copenhagen 𝜑, Denmark</affiliation>
+						<email>aake@astro.ku.dk</email>
+					</author>
+					<author>
+						<name first="S. Β. F." last="Dorch">S. Β. F. Dorch</name>
+						<affiliation>The Royal Swedish Academy of Sciences, Stockholm Observatory, SE-13336 Saltsjöbaden, Sweden</affiliation>
+						<email>dorch@astro.su.se</email>
+					</author>
+					<author>
+						<name first="R. F." last="Stein">R. F. Stein</name>
+						<affiliation>Dept. of Physics and Astronomy, Michigan State University, East Lansing, MI 48824, USA</affiliation>
+						<email>rstein@pa.msu.edu</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Large-scale Flow and Transport of Magnetic Flux in the Solar Convection Zone</title>
+				<feature>Session VII – Magnetoconvection &amp; Stellar Activity</feature>
+				<page>0315-0318</page>
+				<abstract />
+				<keywords>Sun;large-scale flow;cyclic variations.</keywords>
+				<authors>
+					<author>
+						<name first="P." last="Ambroz">P. Ambroz</name>
+						<affiliation>Astronomical Institute of the Acad. Sci. of the Czech Republic, CZ-25165 Ondrejov, The Czech Republic.</affiliation>
+						<email>pambroz@asu.cas.cz</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Space Stellar Photometry Mission COROT: Asteroseismology and Search for Extrasolar Planets</title>
+				<feature>Session VII – Magnetoconvection &amp; Stellar Activity</feature>
+				<page>0319-0322</page>
+				<abstract />
+				<keywords>Space;photometry;asteroseismology;extrasolar planets.</keywords>
+				<authors>
+					<author>
+						<name first="Annie" last="Baglin">Annie Baglin</name>
+						<affiliation>DESPA, UMR CNRS 8632 Observatoire de Paris, 92195 Meudon, France</affiliation>
+						<email>annie.baglin@obspm.fr</email>
+					</author>
+					<author>
+						<name first="Gerard" last="Vauclair">Gerard Vauclair</name>
+						<affiliation>LAT, UMR CNRS 5572, Observatoire de Midi-Pyrenees, 31 400 Toulouse, France</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last="">COROT Team</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Helioseismology and the Solar Interior Dynamics</title>
+				<feature>Session VIII – Helioseismology</feature>
+				<page>0323-0329</page>
+				<abstract />
+				<keywords>Helioseismology;diffusion;light elements;abundances.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Vauclair">S. Vauclair</name>
+						<affiliation>Laboratoire d'Astrophysique de Toulouse, 14, Avenue Edouard-Belin, 31400-Toulouse, France.</affiliation>
+						<email>sylvie.vauclair@obs-mip.fr</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Perspectives on the Interior of the Sun</title>
+				<feature>Session VIII – Helioseismology</feature>
+				<page>0331-0337</page>
+				<abstract />
+				<keywords>Sun: Oscillations, rotation, interior.</keywords>
+				<authors>
+					<author>
+						<name first="S. Μ." last="Chitre">S. Μ. Chitre</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400005, India.</affiliation>
+						<email>chitre@astro,tifr.res.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Seismic Tomography of the Near Solar Surface</title>
+				<feature>Session VIII – Helioseismology</feature>
+				<page>0339-0342</page>
+				<abstract />
+				<keywords>Helioseismology;supergranulation;sunspots.</keywords>
+				<authors>
+					<author>
+						<name first="L." last="Gizon">L. Gizon</name>
+						<affiliation>HEPL, Stanford University, Stanford CA 94305, USA.</affiliation>
+						<email>lgizon@solar.Stanford.edu</email>
+					</author>
+					<author>
+						<name first="Τ. L. Duvall" last="Jr">Τ. L. Duvall Jr</name>
+						<affiliation>NASA/Goddard Space Flight Center, Greenbelt MD 20771, USA.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R. M." last="Larsen">R. M. Larsen</name>
+						<affiliation>HEPL, Stanford University, Stanford CA 94305, USA.</affiliation>
+						<affiliation>SCCM, Stanford University, Stanford CA 94305, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Helioseismic Search for Magnetic Field in the Solar Interior</title>
+				<feature>Session VIII – Helioseismology</feature>
+				<page>0343-0347</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="H. M." last="Antia">H. M. Antia</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="S. M." last="Chitre">S. M. Chitre</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. J." last="Thompson">M. J. Thompson</name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Helioseismic Solar Cycle Changes and Splitting Coefficients</title>
+				<feature>Session VIII – Helioseismology</feature>
+				<page>0349-0352</page>
+				<abstract />
+				<keywords>Solar cycle;rotation;activity.</keywords>
+				<authors>
+					<author>
+						<name first="S. C." last="Tripathy">S. C. Tripathy</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, PO Box No. 198, Udaipur 313 004, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Kiran" last="Jain">Kiran Jain</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, PO Box No. 198, Udaipur 313 004, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A." last="Bhatnagar">A. Bhatnagar</name>
+						<affiliation>Udaipur Solar Observatory, Physical Research Laboratory, PO Box No. 198, Udaipur 313 004, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Temporal Variation of Large Scale Flows in the Solar Interior</title>
+				<feature>Session VIII – Helioseismology</feature>
+				<page>0353-0356</page>
+				<abstract />
+				<keywords>Sun: Oscillations, Rotation, Interior.</keywords>
+				<authors>
+					<author>
+						<name first="Sarbani" last="Basu">Sarbani Basu</name>
+						<affiliation>Institute for Advanced Study, Olden Lane, Princeton Ν. J. 08540, U.S.A. and Astronomy Department, Yale University, New Haven, CT 065208101, U.S.A.</affiliation>
+						<email>basu@astro.yale.edu</email>
+					</author>
+					<author>
+						<name first="H. M." last="Antia">H. M. Antia</name>
+						<affiliation>Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400 005, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Observation of Hysteresis between Solar Activity Indicators and 𝑝-mode Frequency Shifts for Solar Cycle 22</title>
+				<feature>Session VIII – Helioseismology</feature>
+				<page>0357-0360</page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="S. C." last="Tripathy">S. C. Tripathy</name>
+						<affiliation>Observatory, Physical Research Laboratory, P. B. No. 198, Dewali, Off Bari Road, Udaipur 313 004, India.</affiliation>
+						<email>sushant@uso.ernet.in</email>
+					</author>
+					<author>
+						<name first="Brajesh" last="Kumar">Brajesh Kumar</name>
+						<affiliation>Observatory, Physical Research Laboratory, P. B. No. 198, Dewali, Off Bari Road, Udaipur 313 004, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Kiran" last="Jain">Kiran Jain</name>
+						<affiliation>Observatory, Physical Research Laboratory, P. B. No. 198, Dewali, Off Bari Road, Udaipur 313 004, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A." last="Bhatnagar">A. Bhatnagar</name>
+						<affiliation>Observatory, Physical Research Laboratory, P. B. No. 198, Dewali, Off Bari Road, Udaipur 313 004, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Non-Radial Oscillations in an Axisymmetric MHD Incompressible Fluid</title>
+				<feature>Session VIII – Helioseismology</feature>
+				<page>0361-0364</page>
+				<abstract />
+				<keywords>Non-radial oscillations;MHD;axisymmetry.</keywords>
+				<authors>
+					<author>
+						<name first="A. Satya" last="Narayanan">A. Satya Narayanan</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560 034, India.</affiliation>
+						<email>satya@iiap.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Mechanism of Cyclically Polarity Reversing Solar Magnetic Cycle as a Cosmic Dynamo</title>
+				<feature>Session IX – Dynamo Mechanisms</feature>
+				<page>0365-0371</page>
+				<abstract />
+				<keywords>Dynamo;solar cycle;polarity reversal;differential rotation;turbulence;global convection.</keywords>
+				<authors>
+					<author>
+						<name first="Hirokazu" last="Yoshimura">Hirokazu Yoshimura</name>
+						<affiliation>Department ofAstronomy, University of Tokyo, Tokyo, Japan 113-0033.</affiliation>
+						<email>yoshimura@astron.s.u-tokyo.ac.jp</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Current Status of Kinematic Solar Dynamo Models</title>
+				<feature>Session IX – Dynamo Mechanisms</feature>
+				<page>0373-0377</page>
+				<abstract />
+				<keywords>Sun;MHD;dynamo theory.</keywords>
+				<authors>
+					<author>
+						<name first="Arnab Rai" last="Choudhuri">Arnab Rai Choudhuri</name>
+						<affiliation>Department ofPhysics, Indian Institute of Science, Bangalore 560012, India</affiliation>
+						<email>arnab@physics.iisc.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Solar Internal Rotation and Dynamo Waves: A Two-Dimensional Asymptotic Solution in the Convection Zone</title>
+				<feature>Session IX – Dynamo Mechanisms</feature>
+				<page>0379-0380</page>
+				<abstract />
+				<keywords>Sun: magnetic fields, rotation, activity.</keywords>
+				<authors>
+					<author>
+						<name first="Gaetano" last="Belvedere">Gaetano Belvedere</name>
+						<affiliation>Department of Physics andAstronomy, University of Catania, Astronomy Unit, Via Santa Sofia 78, 95125 Catania, Italy.</affiliation>
+						<email>gbelvedere@alpha4.ct.astro,it</email>
+					</author>
+					<author>
+						<name first="Kirill" last="Kuzanyan">Kirill Kuzanyan</name>
+						<affiliation>IZMIRAN, Troitsk, Moscow Region, 142092 Russia.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Dmitry" last="Sokoloff">Dmitry Sokoloff</name>
+						<affiliation>Moscow State University, Department of Physics, 119899 Moscow, Russia.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+ 				<title>The Role of Magnetic Buoyancy in a Babcock-Leighton Type Solar Dynamo</title>
+				<feature>Session IX – Dynamo Mechanisms</feature>
+				<page>0381-0385</page>
+				<abstract />
+				<keywords>MHD—Sun: interior, magnetic fields.</keywords>
+				<authors>
+					<author>
+						<name first="Dibyendu" last="Nandy">Dibyendu Nandy</name>
+						<affiliation>Department of Physics, Indian Institute of Science, Bangalore 560012.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Arnab Rai" last="Choudhuri">Arnab Rai Choudhuri</name>
+						<affiliation>Department of Physics, Indian Institute of Science, Bangalore 560012.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Alpha-Effect, Current and Kinetic Helicities for Magnetically Driven Turbulence, and Solar Dynamo</title>
+				<feature>Session IX – Dynamo Mechanisms</feature>
+				<page>0387-0388</page>
+				<abstract />
+				<keywords>Sun—dynamo, helicity, turbulent convection.</keywords>
+				<authors>
+					<author>
+						<name first="Gaetano" last="Belvedere">Gaetano Belvedere</name>
+						<affiliation>Institute ofAstronomy, University of Catania, Viale A. Doria 6, 95125 Catania, Italy.</affiliation>
+						<email>gbelvedere@alpha4.ct.astro.it</email>
+					</author>
+					<author>
+						<name first="V. V." last="Pipin">V. V. Pipin</name>
+						<affiliation>Institute for Solar-Terrestrial Physics, P.O. Box 4026, 664033 Irkutsk, Russia.</affiliation>
+						<affiliation>Astrophysikalisches Institut Potsdam, An der Sternwarte 16, D-14482 Potsdam, Germany.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="G." last="Rüdiger">G. Rüdiger</name>
+						<affiliation>Institute ofAstronomy, University of Catania, Viale A. Doria 6, 95125 Catania, Italy.</affiliation>
+						<affiliation>Astrophysikalisches Institut Potsdam, An der Sternwarte 16, D-14482 Potsdam, Germany.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Cyclical Variation of the Quiet Corona and Coronal Holes</title>
+				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
+				<page>0389-0395</page>
+				<abstract />
+				<keywords>Coronagraphs;solar activity cycle;solar corona;total eclipses;X-ray observations.</keywords>
+				<authors>
+					<author>
+						<name first="Takashi" last="Sakurai">Takashi Sakurai</name>
+						<affiliation>National Astronomical Observatory, Japan.</affiliation>
+						<email>sakurai@solar.mtk.nao.ac.jp</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The EUV Spectrum of Sunspot Plumes Observed by SUMER on SOHO</title>
+				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
+				<page>0397-0401</page>
+				<abstract />
+				<keywords>Sun: EUV spectroscopy;sunspot;oscillation.</keywords>
+				<authors>
+					<author>
+						<name first="W." last="Curdt">W. Curdt</name>
+						<affiliation>Max-Planck-Institut für Aeronomie, D-37191, Katlenburg-Lindau, Germany.</affiliation>
+						<email>curdt@linmpi.mpg.de</email>
+					</author>
+					<author>
+						<name first="B. N." last="Dwivedi">B. N. Dwivedi</name>
+						<affiliation>Department of Applied Physics, Banaras Hindu University, Varanasi-221005, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="U." last="Feldman">U. Feldman</name>
+						<affiliation>E.O. Hulburt Center for Space Research, NRL, Washington DC 20375, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Exploring Coronal Structures with SOHO</title>
+				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
+				<page>0403-0406</page>
+				<abstract />
+				<keywords>Corona;CME.</keywords>
+				<authors>
+					<author>
+						<name first="Μ." last="Karovska">Μ. Karovska</name>
+						<affiliation>Harvard-Smithsonian Centerfor Astrophysics, Cambridge, MA 02138 USA.</affiliation>
+						<email>karovska@cfa.harvard.edu</email>
+					</author>
+					<author>
+						<name first="B." last="Wood">Β. Wood</name>
+						<affiliation>Harvard-Smithsonian Centerfor Astrophysics, Cambridge, MA 02138 USA.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J." last="Chen">J. Chen</name>
+						<affiliation>Naval Research Laboratory, Washington DC, USA.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="J." last="Cook">J. Cook</name>
+						<affiliation>Naval Research Laboratory, Washington DC, USA.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="R." last="Howard">R. Howard</name>
+						<affiliation>Naval Research Laboratory, Washington DC, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Electron Density and Temperature Measurements, and Abundance Anomalies in the Solar Atmosphere</title>
+				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
+				<page>0407-0411</page>
+				<abstract />
+				<keywords>Solar atmosphere;abundance anomalies;EUV diagnostics;emission lines.</keywords>
+				<authors>
+					<author>
+						<name first="Anita" last="Mohan">Anita Mohan</name>
+						<affiliation>departmentofApplied Physics, Institute of Technology, Banaras Hindu University, Varanasi 221005, India.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Bhola N." last="Dwivedi">Bhola N. Dwivedi</name>
+						<affiliation>departmentofApplied Physics, Institute of Technology, Banaras Hindu University, Varanasi 221005, India.</affiliation>
+						<affiliation>Max-Planck-Institut für Aeronomie, 37191Katlenburg-Lindau, Germany.</affiliation>
+						<email>dwivedi@banaras.ernet.in</email>
+					</author>
+					<author>
+						<name first="Enrico" last="Landi">Enrico Landi</name>
+						<affiliation>Max-Planck-Institut für Aeronomie, 37191Katlenburg-Lindau, Germany.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Microwave Enhancement in Coronal Holes: Statistical Properties</title>
+				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
+				<page>0413-0417</page>
+				<abstract />
+				<keywords>Sun: radio radiation;coronal holes;EUV emission.</keywords>
+				<authors>
+					<author>
+						<name first="Ν." last="Gopalswamy">Ν. Gopalswamy</name>
+						<affiliation>Bldg 26, Room G-l, Code 682.3, NASA/GSFC, Greenbelt MD, USA.</affiliation>
+						<affiliation>Centerfor Solar Physics and Space Weather, The Catholic University ofAmerica, Washington DC 20064.</affiliation>
+						<email>gopals@fugee.gsfc.nasa.gov</email>
+					</author>
+					<author>
+						<name first="Κ." last="Shibasaki">Κ. Shibasaki</name>
+						<affiliation>Nobeyama Radio Observatory, Minamisaku, Nagano, 384-1305, Japan.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="Μ." last="Salem">Μ. Salem</name>
+						<affiliation>Dept. ofPhysics, CaseWesternReserveUniversity, Cleveland, OH44106, USA.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>The Enhanced Coronal Green Line Intensity and the Magnetic Field Gradients</title>
+				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
+				<page>0419-0420</page>
+				<abstract />
+				<keywords>Sun: Corona;emergence of magnetic flux.</keywords>
+				<authors>
+					<author>
+						<name first="K. B." last="Ramesh">K. B. Ramesh</name>
+						<affiliation>Indian institute of Astrophysics, Bangalore 560 034.</affiliation>
+						<email>kbramesh@iiap.ernet.in</email>
+					</author>
+					<author>
+						<name first="B. S." last="Nagabhushana">B. S. Nagabhushana</name>
+						<affiliation>Indian institute of Astrophysics, Bangalore 560 034.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="B. A." last="Varghese">B. A. Varghese</name>
+						<affiliation>Indian institute of Astrophysics, Bangalore 560 034.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Multibaseline Observations of the Occultation of Crab Nebula by the Solar Corona at Decameter Wavelengths</title>
+				<feature>Session X – Cycle Variation in the Quiet Corona &amp; Coronal Holes</feature>
+				<page>0421-0422</page>
+				<abstract />
+				<keywords>Occultation;solar corona;density fluctuations.</keywords>
+				<authors>
+					<author>
+						<name first="K. R." last="Subramanian">K. R. Subramanian</name>
+						<affiliation>Indian Institute of Astrophysics, Bangalore 560034, India.</affiliation>
+						<email>subra@iiap.ernet.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Solar Wind Variation with the Cycle</title>
+				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
+				<page>0423-0429</page>
+				<abstract />
+				<keywords>Solar wind;solar activity cycle.</keywords>
+				<authors>
+					<author>
+						<name first="I. S." last="Veselovsky">I. S. Veselovsky</name>
+						<affiliation>Institute of Nuclear Physics, Moscow State University, 119899 Moscow, Russia.</affiliation>
+						<email>veselov@decl.npi.msu.su</email>
+					</author>
+					<author>
+						<name first="A. V." last="Dmitriev">A. V. Dmitriev</name>
+						<affiliation>Institute of Nuclear Physics, Moscow State University, 119899 Moscow, Russia.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="A. V." last="Suvorova">A. V. Suvorova</name>
+						<affiliation>Institute of Nuclear Physics, Moscow State University, 119899 Moscow, Russia.</affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="M. V." last="Tarsina">M. V. Tarsina</name>
+						<affiliation>Institute of Nuclear Physics, Moscow State University, 119899 Moscow, Russia.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Heliospheric Magnetic Fields, Energetic Particles, and the Solar Cycle</title>
+				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
+				<page>0431-0437</page>
+				<abstract />
+				<keywords>Heliosphere;heliopause;termination shock;solar cycle;energetic'interplanetary neutrals;anomalous componene;cosmic rays;interplanetary magnetic fields.</keywords>
+				<authors>
+					<author>
+						<name first="Peter" last="Kiraly">Peter Kiraly</name>
+						<affiliation>KFKI Research Institute for Particle and Nuclear Physics, H-1525 Budapest 114, POB 49, Hungary.</affiliation>
+						<email>pkiraly@sunserv.kfki.hu</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Remote Sensing of the Heliospheric Solar Wind using Radio Astronomy Methods and Numerical Simulations</title>
+				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
+				<page>0439-0444</page>
+				<abstract />
+				<keywords>Sun;heliosphere, solar wind.</keywords>
+				<authors>
+					<author>
+						<name first="S." last="Ananthakrishnan">S. Ananthakrishnan</name>
+						<affiliation>National Center for Radio Astrophysics, Tata Institute of Fundamental Research, Pune, India.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Tomography of the Solar Wind using Interplanetary Scintillation</title>
+				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
+				<page>0445-0446</page>
+				<abstract />
+				<keywords>Tomography;solar wind;interplanetary scintillation.</keywords>
+				<authors>
+					<author>
+						<name first="Divya" last="Oberoi">Divya Oberoi</name>
+						<affiliation>National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune 411007.</affiliation>
+						<affiliation>Indian Institute of Science, Bangalore 560012.</affiliation>
+						<email>div@ncra.tifr.res.in</email>
+					</author>
+					<author>
+						<name first="A. Pramesh" last="Rao">A. Pramesh Rao</name>
+						<affiliation>National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune 411007.</affiliation>
+						<email>pramesh@ncra.tifr.res.in</email>
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Ulysses Observations of Nonlinear Wave-wave Interactions in the Source Regions of Type III Solar Radio Bursts</title>
+				<feature>Session XI – Solar Wind &amp; Interplanetary Magnetic Fields</feature>
+				<page>0447-0450</page>
+				<abstract />
+				<keywords>Type III bursts;electrostatic decay;modulational instability.</keywords>
+				<authors>
+					<author>
+						<name first="G." last="Thejappa">G. Thejappa</name>
+						<affiliation>Department ofAstronomy, University of Maryland, College Park, MD 20742.</affiliation>
+						<email>golla@urap.gsfc.nasa.gov</email>
+					</author>
+					<author>
+						<name first="R. J." last="MacDowall">R. J. MacDowall</name>
+						<affiliation>NASA, Goddard Space Flight Center, Greenbelt, MD 20771.</affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title></title>
+				<feature>Session XII – Conclusion</feature>
+				<page></page>
+				<abstract />
+				<keywords></keywords>
+				<authors>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+					<author>
+						<name first="" last=""></name>
+						<affiliation></affiliation>
+						<email />
+					</author>
+				</authors>
+				<dates />
+			</entry>
 
+		</issue>					
 	</volume>
 </journal>
+
