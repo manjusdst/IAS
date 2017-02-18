@@ -11977,27 +11977,48 @@
 				<dates />
 			</entry>
 			<entry hassup="0">
-				<title></title>
+				<title>Summary Lecture</title>
 				<feature>Session XII – Conclusion</feature>
-				<page></page>
+				<page>0451-0457</page>
 				<abstract />
-				<keywords></keywords>
+				<keywords>Sun;plasma physics;history of science.</keywords>
 				<authors>
 					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email />
-					</author>
-					<author>
-						<name first="" last=""></name>
-						<affiliation></affiliation>
-						<email />
+						<name first="J. O." last="Stenflo">J. O. Stenflo</name>
+						<affiliation>Institute of Astronomy, ΕΤΗ Zentrum, CH-8092 Zurich, Switzerland.</affiliation>
+						<email>stenflo@astro.phys.ethz.ch</email>
 					</author>
 				</authors>
 				<dates />
 			</entry>
-
-		</issue>					
+			<entry hassup="0">
+				<title>List of Participants</title>
+				<feature>Session XII – Conclusion</feature>
+				<page>0459-0461</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Author Index</title>
+				<feature>Session XII – Conclusion</feature>
+				<page>0463-0467</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+			<entry hassup="0">
+				<title>Subject Index</title>
+				<feature>Session XII – Conclusion</feature>
+				<page>0469-0475</page>
+				<abstract />
+				<keywords></keywords>
+				<authors />
+				<dates />
+			</entry>
+		</issue>
 	</volume>
 </journal>
 
